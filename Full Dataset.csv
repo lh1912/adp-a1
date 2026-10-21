@@ -1,0 +1,1004 @@
+﻿LSOA_code,LSOA_name,LA_code,LA_name,region,total_households,households_fuel_poor,proportion_housholds_fuel_poor,modal_epc_rating,epc_property_count,IMD_2025_ENG,IMD_2025_Decile
+E01012392,Halton 001A,E06000006,Halton,North West," 1,204 ", 48 , 4.0 ,B,1115,31695,10
+E01012393,Halton 001B,E06000006,Halton,North West," 1,207 ", 61 , 5.1 ,C,924,31434,10
+E01012395,Halton 001C,E06000006,Halton,North West, 702 , 41 , 5.8 ,D,470,31258,10
+E01012411,Halton 001D,E06000006,Halton,North West, 632 , 53 , 8.4 ,D,413,15452,5
+E01012374,Halton 002A,E06000006,Halton,North West," 1,146 ", 52 , 4.5 ,C,759,31208,10
+E01012375,Halton 002B,E06000006,Halton,North West, 594 , 18 , 3.0 ,D,314,32145,10
+E01012376,Halton 002C,E06000006,Halton,North West," 1,036 ", 29 , 2.8 ,C,570,30299,9
+E01012421,Halton 002D,E06000006,Halton,North West, 554 , 15 , 2.7 ,D,265,29486,9
+E01012423,Halton 002E,E06000006,Halton,North West, 658 , 31 , 4.7 ,D,421,13878,5
+E01012368,Halton 003A,E06000006,Halton,North West, 944 , 100 , 10.6 ,C,903,11259,4
+E01012410,Halton 003B,E06000006,Halton,North West, 533 , 23 , 4.3 ,D,332,25024,8
+E01012412,Halton 003C,E06000006,Halton,North West, 865 , 85 , 9.8 ,C,840,4889,2
+E01012413,Halton 003D,E06000006,Halton,North West, 686 , 67 , 9.8 ,C,694,4213,2
+E01012414,Halton 003E,E06000006,Halton,North West, 519 , 35 , 6.7 ,D,300,19923,6
+E01012377,Halton 004A,E06000006,Halton,North West, 780 , 73 , 9.4 ,C,680,4921,2
+E01012390,Halton 004B,E06000006,Halton,North West, 689 , 63 , 9.1 ,D,548,8698,3
+E01012419,Halton 004C,E06000006,Halton,North West, 509 , 51 , 10.0 ,C,322,2340,1
+E01012420,Halton 004D,E06000006,Halton,North West, 749 , 95 , 12.7 ,C,665,424,1
+E01012422,Halton 004E,E06000006,Halton,North West, 671 , 66 , 9.8 ,C,521,2841,1
+E01012369,Halton 005A,E06000006,Halton,North West, 768 , 68 , 8.9 ,D,549,11866,4
+E01012394,Halton 005B,E06000006,Halton,North West, 874 , 76 , 8.7 ,C,756,15016,5
+E01012425,Halton 005C,E06000006,Halton,North West, 699 , 93 , 13.3 ,D,581,5165,2
+E01012426,Halton 005D,E06000006,Halton,North West, 590 , 55 , 9.3 ,D,384,20923,7
+E01012427,Halton 005E,E06000006,Halton,North West, 716 , 54 , 7.5 ,D,460,11127,4
+E01012378,Halton 006A,E06000006,Halton,North West, 700 , 54 , 7.7 ,D,419,22519,7
+E01012379,Halton 006B,E06000006,Halton,North West, 793 , 76 , 9.6 ,D,720,8550,3
+E01012380,Halton 006C,E06000006,Halton,North West, 643 , 61 , 9.5 ,D,565,2527,1
+E01012388,Halton 006D,E06000006,Halton,North West, 753 , 73 , 9.7 ,C,606,4244,2
+E01012442,Halton 006E,E06000006,Halton,North West, 636 , 72 , 11.3 ,C,480,1066,1
+E01012367,Halton 007A,E06000006,Halton,North West, 941 , 132 , 14.0 ,D,1049,1330,1
+E01012370,Halton 007B,E06000006,Halton,North West, 935 , 179 , 19.1 ,D,1099,3424,2
+E01012424,Halton 007C,E06000006,Halton,North West, 791 , 105 , 13.3 ,C,621,372,1
+E01012441,Halton 007D,E06000006,Halton,North West," 1,169 ", 167 , 14.3 ,C,1436,438,1
+E01012389,Halton 008A,E06000006,Halton,North West, 770 , 48 , 6.2 ,D,388,28821,9
+E01012391,Halton 008B,E06000006,Halton,North West," 1,014 ", 94 , 9.3 ,C,956,4984,2
+E01012401,Halton 008C,E06000006,Halton,North West, 832 , 54 , 6.5 ,D,636,19216,6
+E01012443,Halton 008D,E06000006,Halton,North West, 608 , 40 , 6.6 ,C,368,12243,4
+E01012385,Halton 009A,E06000006,Halton,North West, 785 , 40 , 5.1 ,B,1060,30002,9
+E01012386,Halton 009B,E06000006,Halton,North West," 1,028 ", 25 , 2.4 ,B,1237,30089,9
+E01012387,Halton 009C,E06000006,Halton,North West, 515 , 35 , 6.8 ,D,265,23730,8
+E01012434,Halton 009D,E06000006,Halton,North West, 633 , 21 , 3.3 ,D,419,24480,8
+E01012435,Halton 009E,E06000006,Halton,North West, 804 , 19 , 2.4 ,D,380,29035,9
+E01012381,Halton 010A,E06000006,Halton,North West, 831 , 80 , 9.6 ,C,646,988,1
+E01012382,Halton 010B,E06000006,Halton,North West, 785 , 73 , 9.3 ,C,762,435,1
+E01012384,Halton 010C,E06000006,Halton,North West, 794 , 76 , 9.6 ,D,814,5271,2
+E01012444,Halton 010D,E06000006,Halton,North West, 586 , 73 , 12.5 ,C,500,1672,1
+E01012445,Halton 010E,E06000006,Halton,North West, 548 , 88 , 16.1 ,C,462,316,1
+E01012398,Halton 011A,E06000006,Halton,North West, 516 , 48 , 9.3 ,D,416,15283,5
+E01012400,Halton 011B,E06000006,Halton,North West, 535 , 59 , 11.0 ,D,392,18257,6
+E01012402,Halton 011C,E06000006,Halton,North West, 666 , 72 , 10.8 ,D,722,2474,1
+E01012404,Halton 011D,E06000006,Halton,North West, 596 , 45 , 7.6 ,D,476,12696,4
+E01012405,Halton 011E,E06000006,Halton,North West, 937 , 89 , 9.5 ,D,724,12037,4
+E01012416,Halton 012A,E06000006,Halton,North West, 802 , 63 , 7.9 ,C,566,15179,5
+E01012417,Halton 012B,E06000006,Halton,North West, 578 , 62 , 10.7 ,D,469,7945,3
+E01012429,Halton 012D,E06000006,Halton,North West, 655 , 69 , 10.5 ,C,518,7728,3
+E01012430,Halton 012E,E06000006,Halton,North West, 905 , 133 , 14.7 ,D,1002,976,1
+E01012431,Halton 012F,E06000006,Halton,North West," 1,170 ", 173 , 14.8 ,D,1156,6959,3
+E01035382,Halton 012G,E06000006,Halton,North West, 662 , 51 , 7.7 ,C,613,11333,4
+E01035383,Halton 012H,E06000006,Halton,North West, 659 , 67 , 10.2 ,D,512,10141,4
+E01012383,Halton 013A,E06000006,Halton,North West, 737 , 81 , 11.0 ,C,665,5385,2
+E01012396,Halton 013B,E06000006,Halton,North West, 620 , 66 , 10.6 ,C,823,660,1
+E01012397,Halton 013C,E06000006,Halton,North West, 747 , 79 , 10.6 ,C,894,1472,1
+E01012399,Halton 013D,E06000006,Halton,North West, 653 , 65 , 10.0 ,C,670,2501,1
+E01012403,Halton 013E,E06000006,Halton,North West, 755 , 100 , 13.2 ,C,696,2395,1
+E01012408,Halton 013F,E06000006,Halton,North West, 737 , 87 , 11.8 ,C,742,198,1
+E01012432,Halton 014A,E06000006,Halton,North West, 668 , 46 , 6.9 ,C,492,8929,3
+E01012433,Halton 014B,E06000006,Halton,North West, 749 , 85 , 11.3 ,C,564,2885,1
+E01012436,Halton 014C,E06000006,Halton,North West, 526 , 61 , 11.6 ,C,446,1317,1
+E01012438,Halton 014D,E06000006,Halton,North West, 521 , 71 , 13.6 ,C,509,614,1
+E01012440,Halton 014E,E06000006,Halton,North West, 538 , 24 , 4.5 ,D,288,17858,6
+E01012406,Halton 015A,E06000006,Halton,North West, 650 , 58 , 8.9 ,C,816,5976,2
+E01012407,Halton 015B,E06000006,Halton,North West, 926 , 115 , 12.4 ,C,1050,1121,1
+E01012409,Halton 015C,E06000006,Halton,North West, 636 , 75 , 11.8 ,C,677,3054,1
+E01012437,Halton 015D,E06000006,Halton,North West, 554 , 64 , 11.6 ,C,463,2695,1
+E01012439,Halton 015E,E06000006,Halton,North West, 640 , 64 , 10.0 ,C,559,3950,2
+E01012371,Halton 016A,E06000006,Halton,North West, 553 , 24 , 4.3 ,C,370,24992,8
+E01012372,Halton 016B,E06000006,Halton,North West, 531 , 24 , 4.5 ,D,301,26310,8
+E01012373,Halton 016C,E06000006,Halton,North West, 556 , 33 , 5.9 ,D,256,29227,9
+E01012415,Halton 016D,E06000006,Halton,North West, 556 , 38 , 6.8 ,D,296,26992,8
+E01012418,Halton 016E,E06000006,Halton,North West, 651 , 41 , 6.3 ,D,407,30543,10
+E01006448,Knowsley 001A,E08000011,Knowsley,North West, 888 , 95 , 10.7 ,C,1126,536,1
+E01006492,Knowsley 001B,E08000011,Knowsley,North West, 536 , 45 , 8.4 ,C,437,6310,2
+E01006493,Knowsley 001C,E08000011,Knowsley,North West, 746 , 72 , 9.7 ,C,874,3051,1
+E01006494,Knowsley 001D,E08000011,Knowsley,North West, 715 , 74 , 10.3 ,C,975,379,1
+E01006495,Knowsley 001E,E08000011,Knowsley,North West, 897 , 71 , 7.9 ,C,919,4363,2
+E01006454,Knowsley 002A,E08000011,Knowsley,North West, 683 , 34 , 5.0 ,B,537,16995,6
+E01006456,Knowsley 002B,E08000011,Knowsley,North West, 711 , 45 , 6.3 ,C,611,12483,4
+E01006457,Knowsley 002C,E08000011,Knowsley,North West, 576 , 37 , 6.4 ,D,334,17058,6
+E01006458,Knowsley 002D,E08000011,Knowsley,North West, 687 , 65 , 9.5 ,C,630,6058,2
+E01006490,Knowsley 002E,E08000011,Knowsley,North West," 1,110 ", 49 , 4.4 ,C,815,16909,6
+E01006491,Knowsley 002F,E08000011,Knowsley,North West, 837 , 29 , 3.5 ,C,718,17071,6
+E01006415,Knowsley 003A,E08000011,Knowsley,North West, 819 , 70 , 8.5 ,C,881,7033,3
+E01006417,Knowsley 003B,E08000011,Knowsley,North West, 595 , 61 , 10.3 ,C,723,1921,1
+E01006436,Knowsley 003C,E08000011,Knowsley,North West, 678 , 79 , 11.7 ,C,793,384,1
+E01006437,Knowsley 003D,E08000011,Knowsley,North West, 710 , 71 , 10.0 ,C,766,843,1
+E01006447,Knowsley 003E,E08000011,Knowsley,North West, 704 , 76 , 10.8 ,C,960,751,1
+E01006455,Knowsley 004A,E08000011,Knowsley,North West, 783 , 87 , 11.1 ,C,917,863,1
+E01006506,Knowsley 004B,E08000011,Knowsley,North West, 628 , 63 , 10.0 ,C,628,4339,2
+E01006507,Knowsley 004C,E08000011,Knowsley,North West, 699 , 76 , 10.9 ,C,776,2712,1
+E01006508,Knowsley 004D,E08000011,Knowsley,North West, 632 , 46 , 7.3 ,C,569,7036,3
+E01006509,Knowsley 004E,E08000011,Knowsley,North West, 807 , 66 , 8.2 ,C,1359,1104,1
+E01006510,Knowsley 004F,E08000011,Knowsley,North West, 594 , 45 , 7.6 ,D,456,7072,3
+E01006416,Knowsley 005A,E08000011,Knowsley,North West, 708 , 75 , 10.6 ,C,883,1454,1
+E01006418,Knowsley 005B,E08000011,Knowsley,North West, 587 , 61 , 10.4 ,C,571,2064,1
+E01006434,Knowsley 005C,E08000011,Knowsley,North West, 679 , 65 , 9.6 ,C,716,1360,1
+E01006435,Knowsley 005D,E08000011,Knowsley,North West, 693 , 61 , 8.8 ,C,640,3026,1
+E01006438,Knowsley 005E,E08000011,Knowsley,North West, 511 , 37 , 7.2 ,D,423,18113,6
+E01006439,Knowsley 005F,E08000011,Knowsley,North West, 724 , 69 , 9.5 ,C,839,8134,3
+E01006446,Knowsley 005G,E08000011,Knowsley,North West, 623 , 67 , 10.8 ,C,876,1224,1
+E01006412,Knowsley 006A,E08000011,Knowsley,North West, 650 , 77 , 11.8 ,C,652,509,1
+E01006413,Knowsley 006B,E08000011,Knowsley,North West, 848 , 88 , 10.4 ,D,1545,83,1
+E01006414,Knowsley 006C,E08000011,Knowsley,North West, 645 , 80 , 12.4 ,C,631,782,1
+E01034832,Knowsley 006E,E08000011,Knowsley,North West, 485 , 44 , 9.1 ,C,559,4314,2
+E01034833,Knowsley 006F,E08000011,Knowsley,North West, 869 , 35 , 4.0 ,C,896,13437,4
+E01006460,Knowsley 007A,E08000011,Knowsley,North West, 672 , 84 , 12.5 ,C,971,173,1
+E01006461,Knowsley 007B,E08000011,Knowsley,North West, 623 , 73 , 11.7 ,C,763,1073,1
+E01006464,Knowsley 007D,E08000011,Knowsley,North West," 1,247 ", 77 , 6.2 ,B,1596,15323,5
+E01006466,Knowsley 007E,E08000011,Knowsley,North West, 780 , 90 , 11.5 ,D,960,8615,3
+E01034834,Knowsley 007F,E08000011,Knowsley,North West, 738 , 105 , 14.2 ,C,977,1299,1
+E01034835,Knowsley 007G,E08000011,Knowsley,North West, 564 , 40 , 7.1 ,C,730,5522,2
+E01006453,Knowsley 008A,E08000011,Knowsley,North West, 536 , 85 , 15.9 ,C,729,841,1
+E01006467,Knowsley 008B,E08000011,Knowsley,North West, 590 , 87 , 14.7 ,C,763,388,1
+E01006470,Knowsley 008E,E08000011,Knowsley,North West, 649 , 73 , 11.2 ,C,715,1457,1
+E01033228,Knowsley 008F,E08000011,Knowsley,North West," 1,180 ", 141 , 11.9 ,C,1705,1635,1
+E01006459,Knowsley 009A,E08000011,Knowsley,North West, 734 , 56 , 7.6 ,D,649,11407,4
+E01006462,Knowsley 009B,E08000011,Knowsley,North West, 747 , 61 , 8.2 ,D,572,20822,7
+E01006496,Knowsley 009C,E08000011,Knowsley,North West, 640 , 62 , 9.7 ,C,555,7944,3
+E01006498,Knowsley 009D,E08000011,Knowsley,North West, 609 , 23 , 3.8 ,C,390,26641,8
+E01006499,Knowsley 009E,E08000011,Knowsley,North West, 876 , 79 , 9.0 ,D,753,20428,7
+E01006440,Knowsley 010A,E08000011,Knowsley,North West, 627 , 75 , 12.0 ,C,826,1281,1
+E01006442,Knowsley 010B,E08000011,Knowsley,North West, 742 , 81 , 10.9 ,C,1030,369,1
+E01006443,Knowsley 010C,E08000011,Knowsley,North West, 740 , 76 , 10.3 ,C,951,760,1
+E01006444,Knowsley 010D,E08000011,Knowsley,North West, 518 , 68 , 13.1 ,C,788,969,1
+E01006445,Knowsley 010E,E08000011,Knowsley,North West, 553 , 66 , 11.9 ,C,667,1172,1
+E01006465,Knowsley 011A,E08000011,Knowsley,North West, 662 , 38 , 5.7 ,D,382,19214,6
+E01006482,Knowsley 011B,E08000011,Knowsley,North West, 611 , 51 , 8.3 ,C,512,6476,2
+E01006483,Knowsley 011C,E08000011,Knowsley,North West, 677 , 61 , 9.0 ,C,744,4794,2
+E01006484,Knowsley 011D,E08000011,Knowsley,North West, 575 , 57 , 9.9 ,D,653,3355,1
+E01006449,Knowsley 012A,E08000011,Knowsley,North West, 694 , 61 , 8.8 ,C,689,10812,4
+E01006450,Knowsley 012B,E08000011,Knowsley,North West, 790 , 77 , 9.7 ,C,953,5626,2
+E01006451,Knowsley 012C,E08000011,Knowsley,North West, 631 , 65 , 10.3 ,D,543,5558,2
+E01006452,Knowsley 012D,E08000011,Knowsley,North West, 651 , 75 , 11.5 ,D,606,8236,3
+E01006497,Knowsley 013A,E08000011,Knowsley,North West, 525 , 41 , 7.8 ,C,386,8417,3
+E01006500,Knowsley 013B,E08000011,Knowsley,North West, 488 , 51 , 10.5 ,C,500,2836,1
+E01006501,Knowsley 013C,E08000011,Knowsley,North West, 570 , 30 , 5.3 ,B,762,12778,4
+E01006504,Knowsley 013D,E08000011,Knowsley,North West, 522 , 50 , 9.6 ,C,637,2215,1
+E01006505,Knowsley 013E,E08000011,Knowsley,North West, 717 , 80 , 11.2 ,C,866,1823,1
+E01006472,Knowsley 014A,E08000011,Knowsley,North West, 644 , 48 , 7.5 ,D,361,23244,7
+E01006485,Knowsley 014B,E08000011,Knowsley,North West, 774 , 58 , 7.5 ,D,609,20927,7
+E01006486,Knowsley 014C,E08000011,Knowsley,North West, 512 , 51 , 10.0 ,D,325,21392,7
+E01006487,Knowsley 014D,E08000011,Knowsley,North West, 651 , 56 , 8.6 ,D,375,18692,6
+E01006488,Knowsley 014E,E08000011,Knowsley,North West," 1,014 ", 71 , 7.0 ,B,763,23838,8
+E01006489,Knowsley 014F,E08000011,Knowsley,North West, 605 , 50 , 8.3 ,D,453,18463,6
+E01006477,Knowsley 015A,E08000011,Knowsley,North West, 687 , 68 , 9.9 ,C,678,3995,2
+E01006478,Knowsley 015B,E08000011,Knowsley,North West, 823 , 74 , 9.0 ,C,996,4029,2
+E01006479,Knowsley 015C,E08000011,Knowsley,North West, 636 , 58 , 9.1 ,C,579,6247,2
+E01006480,Knowsley 015D,E08000011,Knowsley,North West, 671 , 80 , 11.9 ,C,842,2247,1
+E01006481,Knowsley 015E,E08000011,Knowsley,North West, 678 , 66 , 9.7 ,C,796,2213,1
+E01006471,Knowsley 016A,E08000011,Knowsley,North West, 643 , 46 , 7.2 ,D,360,25820,8
+E01006473,Knowsley 016B,E08000011,Knowsley,North West, 653 , 34 , 5.2 ,B,563,26442,8
+E01006474,Knowsley 016C,E08000011,Knowsley,North West, 849 , 56 , 6.6 ,D,665,24805,8
+E01006475,Knowsley 016D,E08000011,Knowsley,North West, 570 , 36 , 6.3 ,D,358,16615,5
+E01006476,Knowsley 016E,E08000011,Knowsley,North West, 608 , 23 , 3.8 ,C,368,30139,9
+E01006420,Knowsley 017A,E08000011,Knowsley,North West, 942 , 42 , 4.5 ,B,1481,26083,8
+E01006424,Knowsley 017B,E08000011,Knowsley,North West, 833 , 35 , 4.2 ,D,468,22894,7
+E01006502,Knowsley 017C,E08000011,Knowsley,North West, 800 , 55 , 6.9 ,B,913,15734,5
+E01006503,Knowsley 017D,E08000011,Knowsley,North West, 583 , 37 , 6.3 ,D,363,18898,6
+E01006421,Knowsley 018A,E08000011,Knowsley,North West, 466 , 11 , 2.4 ,C,214,27735,9
+E01006425,Knowsley 018B,E08000011,Knowsley,North West, 581 , 37 , 6.4 ,C,509,14293,5
+E01006430,Knowsley 018C,E08000011,Knowsley,North West, 721 , 69 , 9.6 ,C,749,2978,1
+E01006433,Knowsley 018D,E08000011,Knowsley,North West, 727 , 62 , 8.5 ,C,738,11637,4
+E01006419,Knowsley 019A,E08000011,Knowsley,North West, 654 , 26 , 4.0 ,D,349,21642,7
+E01006422,Knowsley 019B,E08000011,Knowsley,North West, 582 , 37 , 6.4 ,D,339,20511,7
+E01006423,Knowsley 019C,E08000011,Knowsley,North West, 553 , 33 , 6.0 ,C,280,23279,7
+E01006427,Knowsley 019D,E08000011,Knowsley,North West, 657 , 43 , 6.5 ,D,425,17588,6
+E01006426,Knowsley 020A,E08000011,Knowsley,North West, 653 , 62 , 9.5 ,C,739,1119,1
+E01006428,Knowsley 020B,E08000011,Knowsley,North West, 673 , 56 , 8.3 ,C,728,5065,2
+E01006429,Knowsley 020C,E08000011,Knowsley,North West, 503 , 50 , 9.9 ,C,517,1777,1
+E01006431,Knowsley 020D,E08000011,Knowsley,North West, 871 , 74 , 8.5 ,C,877,11510,4
+E01006432,Knowsley 020E,E08000011,Knowsley,North West, 701 , 67 , 9.6 ,C,810,2303,1
+E01006651,Liverpool 001A,E08000012,Liverpool,North West, 662 , 26 , 3.9 ,C,368,20315,7
+E01006653,Liverpool 001B,E08000012,Liverpool,North West, 811 , 95 , 11.7 ,C,693,4044,2
+E01006655,Liverpool 001C,E08000012,Liverpool,North West, 761 , 87 , 11.4 ,D,529,7239,3
+E01006658,Liverpool 001D,E08000012,Liverpool,North West, 674 , 81 , 12.0 ,C,584,1305,1
+E01006660,Liverpool 001E,E08000012,Liverpool,North West, 653 , 62 , 9.5 ,D,562,2656,1
+E01006652,Liverpool 002A,E08000012,Liverpool,North West, 655 , 82 , 12.5 ,D,532,8720,3
+E01006656,Liverpool 002B,E08000012,Liverpool,North West, 679 , 94 , 13.8 ,D,602,6936,3
+E01006657,Liverpool 002C,E08000012,Liverpool,North West, 602 , 80 , 13.3 ,D,552,3755,2
+E01006780,Liverpool 002D,E08000012,Liverpool,North West, 600 , 70 , 11.7 ,D,567,7583,3
+E01006783,Liverpool 002E,E08000012,Liverpool,North West, 612 , 88 , 14.4 ,D,672,4039,2
+E01006781,Liverpool 003A,E08000012,Liverpool,North West, 597 , 42 , 7.0 ,D,349,15951,5
+E01006782,Liverpool 003B,E08000012,Liverpool,North West, 665 , 99 , 14.9 ,D,703,5534,2
+E01006784,Liverpool 003C,E08000012,Liverpool,North West, 557 , 61 , 11.0 ,D,514,7835,3
+E01006785,Liverpool 003D,E08000012,Liverpool,North West, 807 , 100 , 12.4 ,D,780,6389,2
+E01006786,Liverpool 003E,E08000012,Liverpool,North West, 775 , 76 , 9.8 ,D,585,8608,3
+E01006661,Liverpool 004A,E08000012,Liverpool,North West, 761 , 77 , 10.1 ,C,655,1328,1
+E01006662,Liverpool 004B,E08000012,Liverpool,North West, 840 , 68 , 8.1 ,C,890,598,1
+E01006663,Liverpool 004C,E08000012,Liverpool,North West, 511 , 44 , 8.6 ,C,452,5399,2
+E01006664,Liverpool 004D,E08000012,Liverpool,North West, 859 , 95 , 11.1 ,C,992,1560,1
+E01006669,Liverpool 004E,E08000012,Liverpool,North West, 579 , 24 , 4.1 ,D,410,17064,6
+E01006654,Liverpool 005A,E08000012,Liverpool,North West, 655 , 80 , 12.2 ,D,641,8262,3
+E01006659,Liverpool 005B,E08000012,Liverpool,North West, 568 , 68 , 12.0 ,C,558,2074,1
+E01006734,Liverpool 005C,E08000012,Liverpool,North West, 650 , 101 , 15.5 ,C,631,707,1
+E01006735,Liverpool 005D,E08000012,Liverpool,North West, 638 , 82 , 12.9 ,C,601,603,1
+E01006736,Liverpool 005E,E08000012,Liverpool,North West, 596 , 72 , 12.1 ,C,436,3040,1
+E01006737,Liverpool 005F,E08000012,Liverpool,North West, 581 , 73 , 12.6 ,C,493,1813,1
+E01006787,Liverpool 006A,E08000012,Liverpool,North West, 581 , 85 , 14.6 ,D,839,2184,1
+E01006788,Liverpool 006B,E08000012,Liverpool,North West, 716 , 79 , 11.0 ,D,688,8208,3
+E01006790,Liverpool 006C,E08000012,Liverpool,North West, 905 , 150 , 16.6 ,C,1188,275,1
+E01006791,Liverpool 006D,E08000012,Liverpool,North West, 869 , 114 , 13.1 ,C,1226,296,1
+E01006665,Liverpool 007A,E08000012,Liverpool,North West, 652 , 23 , 3.5 ,D,414,16217,5
+E01006666,Liverpool 007B,E08000012,Liverpool,North West, 529 , 16 , 3.0 ,D,301,23342,7
+E01006667,Liverpool 007C,E08000012,Liverpool,North West, 660 , 44 , 6.7 ,C,453,6759,3
+E01006668,Liverpool 007D,E08000012,Liverpool,North West, 610 , 20 , 3.3 ,D,413,25274,8
+E01006670,Liverpool 007E,E08000012,Liverpool,North West, 640 , 19 , 3.0 ,C,406,18816,6
+E01006607,Liverpool 008A,E08000012,Liverpool,North West, 668 , 76 , 11.4 ,C,609,3191,1
+E01006612,Liverpool 008B,E08000012,Liverpool,North West, 743 , 89 , 12.0 ,C,827,668,1
+E01006729,Liverpool 008C,E08000012,Liverpool,North West, 544 , 80 , 14.7 ,C,571,2094,1
+E01032510,Liverpool 008F,E08000012,Liverpool,North West, 996 , 95 , 9.5 ,D,992,7154,3
+E01032511,Liverpool 008G,E08000012,Liverpool,North West, 634 , 36 , 5.7 ,C,590,6801,3
+E01006608,Liverpool 009A,E08000012,Liverpool,North West, 549 , 67 , 12.2 ,D,528,3656,2
+E01006609,Liverpool 009B,E08000012,Liverpool,North West, 560 , 90 , 16.1 ,D,641,2089,1
+E01006610,Liverpool 009C,E08000012,Liverpool,North West, 715 , 120 , 16.8 ,D,965,215,1
+E01006613,Liverpool 009D,E08000012,Liverpool,North West, 629 , 69 , 11.0 ,C,652,4124,2
+E01006705,Liverpool 009E,E08000012,Liverpool,North West, 652 , 140 , 21.5 ,D,996,374,1
+E01006598,Liverpool 010A,E08000012,Liverpool,North West, 730 , 86 , 11.8 ,C,561,1109,1
+E01006599,Liverpool 010B,E08000012,Liverpool,North West, 757 , 86 , 11.4 ,C,656,3470,2
+E01006672,Liverpool 010E,E08000012,Liverpool,North West, 813 , 111 , 13.7 ,C,693,1567,1
+E01034396,Liverpool 010G,E08000012,Liverpool,North West, 745 , 47 , 6.3 ,B,682,4991,2
+E01034397,Liverpool 010H,E08000012,Liverpool,North West, 702 , 35 , 5.0 ,B,915,10321,4
+E01006600,Liverpool 011A,E08000012,Liverpool,North West, 612 , 78 , 12.7 ,D,706,3928,2
+E01006603,Liverpool 011B,E08000012,Liverpool,North West, 633 , 76 , 12.0 ,C,730,3001,1
+E01006730,Liverpool 011C,E08000012,Liverpool,North West, 565 , 71 , 12.6 ,D,354,2837,1
+E01006731,Liverpool 011D,E08000012,Liverpool,North West, 498 , 66 , 13.3 ,D,436,1734,1
+E01006732,Liverpool 011E,E08000012,Liverpool,North West, 655 , 114 , 17.4 ,C,754,1131,1
+E01006611,Liverpool 012A,E08000012,Liverpool,North West, 715 , 194 , 27.1 ,D,1056,46,1
+E01006614,Liverpool 012B,E08000012,Liverpool,North West, 587 , 125 , 21.3 ,D,867,370,1
+E01006615,Liverpool 012C,E08000012,Liverpool,North West, 713 , 149 , 20.9 ,D,840,849,1
+E01006698,Liverpool 012D,E08000012,Liverpool,North West, 712 , 119 , 16.7 ,D,902,1167,1
+E01006700,Liverpool 012E,E08000012,Liverpool,North West, 694 , 132 , 19.0 ,D,905,490,1
+E01006623,Liverpool 013A,E08000012,Liverpool,North West, 543 , 17 , 3.1 ,D,262,24847,8
+E01006624,Liverpool 013B,E08000012,Liverpool,North West, 739 , 57 , 7.7 ,C,642,5929,2
+E01006627,Liverpool 013C,E08000012,Liverpool,North West, 614 , 46 , 7.5 ,D,476,12362,4
+E01006671,Liverpool 013D,E08000012,Liverpool,North West, 526 , 32 , 6.1 ,C,400,10857,4
+E01006699,Liverpool 014A,E08000012,Liverpool,North West, 787 , 126 , 16.0 ,C,1179,394,1
+E01006701,Liverpool 014B,E08000012,Liverpool,North West, 775 , 83 , 10.7 ,C,872,2357,1
+E01006702,Liverpool 014C,E08000012,Liverpool,North West, 780 , 129 , 16.5 ,D,906,648,1
+E01006703,Liverpool 014D,E08000012,Liverpool,North West, 839 , 86 , 10.3 ,C,1231,328,1
+E01006778,Liverpool 014E,E08000012,Liverpool,North West," 1,116 ", 152 , 13.6 ,C,1618,323,1
+E01006541,Liverpool 015A,E08000012,Liverpool,North West, 799 , 100 , 12.5 ,D,885,3071,1
+E01006543,Liverpool 015B,E08000012,Liverpool,North West, 524 , 54 , 10.3 ,D,309,14436,5
+E01006544,Liverpool 015C,E08000012,Liverpool,North West, 752 , 141 , 18.8 ,D,982,246,1
+E01006616,Liverpool 015D,E08000012,Liverpool,North West, 640 , 74 , 11.6 ,C,697,3658,2
+E01006762,Liverpool 015E,E08000012,Liverpool,North West, 758 , 99 , 13.1 ,C,975,3350,1
+E01006604,Liverpool 016A,E08000012,Liverpool,North West, 637 , 74 , 11.6 ,D,730,5158,2
+E01006605,Liverpool 016B,E08000012,Liverpool,North West, 717 , 98 , 13.7 ,D,878,3802,2
+E01006618,Liverpool 016C,E08000012,Liverpool,North West, 724 , 90 , 12.4 ,C,639,6189,2
+E01006625,Liverpool 016D,E08000012,Liverpool,North West, 637 , 54 , 8.5 ,D,407,15322,5
+E01006626,Liverpool 016E,E08000012,Liverpool,North West, 618 , 55 , 8.9 ,D,414,14348,5
+E01006637,Liverpool 017A,E08000012,Liverpool,North West, 675 , 91 , 13.5 ,C,546,1524,1
+E01006638,Liverpool 017B,E08000012,Liverpool,North West, 590 , 70 , 11.9 ,C,650,214,1
+E01006639,Liverpool 017C,E08000012,Liverpool,North West, 688 , 69 , 10.0 ,D,537,9393,3
+E01006644,Liverpool 017D,E08000012,Liverpool,North West, 966 , 88 , 9.1 ,C,1065,3974,2
+E01006645,Liverpool 017E,E08000012,Liverpool,North West, 718 , 81 , 11.3 ,C,751,970,1
+E01006542,Liverpool 018A,E08000012,Liverpool,North West, 618 , 99 , 16.0 ,D,677,1841,1
+E01006558,Liverpool 018B,E08000012,Liverpool,North West, 644 , 136 , 21.1 ,D,826,67,1
+E01006562,Liverpool 018E,E08000012,Liverpool,North West, 722 , 136 , 18.8 ,D,848,299,1
+E01033747,Liverpool 018F,E08000012,Liverpool,North West, 837 , 80 , 9.6 ,B,1019,3964,2
+E01006545,Liverpool 019A,E08000012,Liverpool,North West, 625 , 105 , 16.8 ,D,814,1869,1
+E01006546,Liverpool 019B,E08000012,Liverpool,North West, 617 , 127 , 20.6 ,D,841,837,1
+E01006547,Liverpool 019C,E08000012,Liverpool,North West, 785 , 180 , 22.9 ,D,1238,143,1
+E01006548,Liverpool 019D,E08000012,Liverpool,North West, 789 , 181 , 22.9 ,D,1013,1202,1
+E01006766,Liverpool 019E,E08000012,Liverpool,North West, 610 , 143 , 23.4 ,D,807,357,1
+E01006767,Liverpool 019F,E08000012,Liverpool,North West, 851 , 164 , 19.3 ,D,1085,2104,1
+E01006606,Liverpool 020A,E08000012,Liverpool,North West, 714 , 99 , 13.9 ,D,692,3991,2
+E01006761,Liverpool 020B,E08000012,Liverpool,North West, 741 , 94 , 12.7 ,C,1141,1134,1
+E01006763,Liverpool 020C,E08000012,Liverpool,North West, 671 , 128 , 19.1 ,D,792,4008,2
+E01006764,Liverpool 020D,E08000012,Liverpool,North West, 713 , 128 , 18.0 ,D,978,1490,1
+E01006765,Liverpool 020E,E08000012,Liverpool,North West, 687 , 93 , 13.5 ,D,729,6993,3
+E01006768,Liverpool 020F,E08000012,Liverpool,North West, 615 , 93 , 15.1 ,D,704,4707,2
+E01006617,Liverpool 021A,E08000012,Liverpool,North West, 722 , 62 , 8.6 ,D,613,15469,5
+E01006619,Liverpool 021B,E08000012,Liverpool,North West, 818 , 79 , 9.7 ,D,660,15257,5
+E01006620,Liverpool 021C,E08000012,Liverpool,North West, 656 , 54 , 8.2 ,D,496,14621,5
+E01006621,Liverpool 021D,E08000012,Liverpool,North West, 690 , 38 , 5.5 ,D,485,22868,7
+E01006622,Liverpool 021E,E08000012,Liverpool,North West, 614 , 58 , 9.4 ,D,337,28654,9
+E01006640,Liverpool 021F,E08000012,Liverpool,North West, 792 , 55 , 6.9 ,D,546,16852,5
+E01006776,Liverpool 022B,E08000012,Liverpool,North West, 945 , 69 , 7.3 ,C,1573,5337,2
+E01006779,Liverpool 022D,E08000012,Liverpool,North West, 961 , 81 , 8.4 ,C,1159,465,1
+E01034398,Liverpool 022F,E08000012,Liverpool,North West, 506 , 30 , 5.9 ,B,624,3807,2
+E01034399,Liverpool 022G,E08000012,Liverpool,North West, 610 , 51 , 8.4 ,C,958,727,1
+E01034400,Liverpool 022H,E08000012,Liverpool,North West, 572 , 54 , 9.4 ,C,993,701,1
+E01006560,Liverpool 023A,E08000012,Liverpool,North West, 986 , 84 , 8.5 ,C,1118,234,1
+E01006564,Liverpool 023B,E08000012,Liverpool,North West, 814 , 65 , 8.0 ,C,771,4303,2
+E01006646,Liverpool 023C,E08000012,Liverpool,North West, 975 , 88 , 9.0 ,C,1360,1762,1
+E01006648,Liverpool 023D,E08000012,Liverpool,North West," 1,115 ", 81 , 7.3 ,C,1638,4846,2
+E01006540,Liverpool 024A,E08000012,Liverpool,North West, 848 , 182 , 21.5 ,D,1107,204,1
+E01006563,Liverpool 024B,E08000012,Liverpool,North West, 915 , 116 , 12.7 ,C,1144,120,1
+E01006647,Liverpool 024C,E08000012,Liverpool,North West, 892 , 62 , 7.0 ,C,1047,906,1
+E01006693,Liverpool 024D,E08000012,Liverpool,North West, 824 , 75 , 9.1 ,C,1135,789,1
+E01006572,Liverpool 025A,E08000012,Liverpool,North West, 561 , 84 , 15.0 ,D,462,746,1
+E01006574,Liverpool 025B,E08000012,Liverpool,North West, 658 , 77 , 11.7 ,D,463,4978,2
+E01006641,Liverpool 025C,E08000012,Liverpool,North West, 666 , 27 , 4.1 ,D,471,14598,5
+E01006642,Liverpool 025D,E08000012,Liverpool,North West, 648 , 84 , 13.0 ,C,585,1018,1
+E01006643,Liverpool 025E,E08000012,Liverpool,North West, 794 , 93 , 11.7 ,C,695,1845,1
+E01006567,Liverpool 026A,E08000012,Liverpool,North West, 922 , 93 , 10.1 ,C,903,4032,2
+E01006568,Liverpool 026B,E08000012,Liverpool,North West, 646 , 39 , 6.0 ,D,469,14255,5
+E01006570,Liverpool 026C,E08000012,Liverpool,North West, 629 , 66 , 10.5 ,D,466,14008,5
+E01006571,Liverpool 026D,E08000012,Liverpool,North West, 638 , 81 , 12.7 ,C,504,2714,1
+E01006711,Liverpool 027A,E08000012,Liverpool,North West, 705 , 111 , 15.7 ,D,953,1724,1
+E01006717,Liverpool 027D,E08000012,Liverpool,North West, 599 , 67 , 11.2 ,D,526,10552,4
+E01006718,Liverpool 027E,E08000012,Liverpool,North West, 695 , 77 , 11.1 ,D,651,5672,2
+E01006719,Liverpool 027F,E08000012,Liverpool,North West, 619 , 68 , 11.0 ,D,597,6857,3
+E01032508,Liverpool 027G,E08000012,Liverpool,North West, 865 , 140 , 16.2 ,C,1242,2161,1
+E01032509,Liverpool 027H,E08000012,Liverpool,North West, 648 , 116 , 17.9 ,D,863,1075,1
+E01006690,Liverpool 028A,E08000012,Liverpool,North West, 873 , 168 , 19.2 ,D,1250,1371,1
+E01006692,Liverpool 028B,E08000012,Liverpool,North West," 1,121 ", 202 , 18.0 ,D,1472,2562,1
+E01006695,Liverpool 028C,E08000012,Liverpool,North West, 985 , 192 , 19.5 ,C,1598,162,1
+E01006759,Liverpool 028D,E08000012,Liverpool,North West, 445 , 68 , 15.3 ,D,614,2951,1
+E01006760,Liverpool 028E,E08000012,Liverpool,North West, 712 , 140 , 19.7 ,D,1365,65,1
+E01006565,Liverpool 029A,E08000012,Liverpool,North West, 648 , 79 , 12.2 ,D,593,5707,2
+E01006569,Liverpool 029B,E08000012,Liverpool,North West, 635 , 78 , 12.3 ,D,596,4470,2
+E01006573,Liverpool 029C,E08000012,Liverpool,North West, 786 , 123 , 15.6 ,D,942,3252,1
+E01006712,Liverpool 029D,E08000012,Liverpool,North West, 550 , 82 , 14.9 ,D,606,4908,2
+E01006713,Liverpool 029E,E08000012,Liverpool,North West, 606 , 87 , 14.4 ,D,624,6938,3
+E01006691,Liverpool 030A,E08000012,Liverpool,North West, 691 , 178 , 25.8 ,D,1017,2756,1
+E01006694,Liverpool 030B,E08000012,Liverpool,North West, 857 , 243 , 28.4 ,D,1348,1210,1
+E01006696,Liverpool 030C,E08000012,Liverpool,North West, 851 , 139 , 16.3 ,C,1103,3940,2
+E01006697,Liverpool 030D,E08000012,Liverpool,North West, 788 , 205 , 26.0 ,D,1324,1517,1
+E01006746,Liverpool 030E,E08000012,Liverpool,North West, 696 , 106 , 15.2 ,B,1324,4171,2
+E01006512,Liverpool 031A,E08000012,Liverpool,North West, 569 , 80 , 14.1 ,C,905,17822,6
+E01006747,Liverpool 031B,E08000012,Liverpool,North West, 773 , 111 , 14.4 ,C,1339,14294,5
+E01006748,Liverpool 031C,E08000012,Liverpool,North West, 738 , 177 , 24.0 ,D,1070,7387,3
+E01006751,Liverpool 031F,E08000012,Liverpool,North West, 837 , 84 , 10.0 ,C,1051,7105,3
+E01033763,Liverpool 031G,E08000012,Liverpool,North West," 1,073 ", 130 , 12.1 ,C,1448,5221,2
+E01006566,Liverpool 032A,E08000012,Liverpool,North West, 620 , 53 , 8.5 ,D,581,13239,4
+E01006585,Liverpool 032B,E08000012,Liverpool,North West, 649 , 84 , 12.9 ,C,732,2204,1
+E01006586,Liverpool 032C,E08000012,Liverpool,North West, 888 , 87 , 9.8 ,C,1005,6930,3
+E01006587,Liverpool 032D,E08000012,Liverpool,North West, 705 , 54 , 7.7 ,D,490,13006,4
+E01006716,Liverpool 032E,E08000012,Liverpool,North West, 695 , 103 , 14.8 ,C,815,1900,1
+E01006575,Liverpool 034A,E08000012,Liverpool,North West, 579 , 64 , 11.1 ,D,552,11444,4
+E01006576,Liverpool 034B,E08000012,Liverpool,North West, 763 , 61 , 8.0 ,D,645,24209,8
+E01006577,Liverpool 034C,E08000012,Liverpool,North West, 614 , 49 , 8.0 ,D,372,27859,9
+E01006579,Liverpool 034D,E08000012,Liverpool,North West, 628 , 56 , 8.9 ,D,314,28600,9
+E01006584,Liverpool 034E,E08000012,Liverpool,North West, 657 , 56 , 8.5 ,D,448,16470,5
+E01006725,Liverpool 035B,E08000012,Liverpool,North West, 754 , 132 , 17.5 ,D,957,4475,2
+E01006726,Liverpool 035C,E08000012,Liverpool,North West, 657 , 137 , 20.9 ,D,952,4627,2
+E01006727,Liverpool 035D,E08000012,Liverpool,North West, 627 , 109 , 17.4 ,D,698,7937,3
+E01006728,Liverpool 035E,E08000012,Liverpool,North West, 839 , 198 , 23.6 ,D,1252,535,1
+E01034401,Liverpool 035G,E08000012,Liverpool,North West," 1,586 ", 281 , 17.7 ,C,1868,1903,1
+E01006578,Liverpool 036A,E08000012,Liverpool,North West, 566 , 57 , 10.1 ,D,376,22623,7
+E01006580,Liverpool 036B,E08000012,Liverpool,North West, 533 , 38 , 7.1 ,D,299,28640,9
+E01006581,Liverpool 036C,E08000012,Liverpool,North West, 626 , 62 , 9.9 ,D,352,29370,9
+E01006773,Liverpool 036D,E08000012,Liverpool,North West, 584 , 42 , 7.2 ,D,340,21919,7
+E01006774,Liverpool 036E,E08000012,Liverpool,North West, 564 , 28 , 5.0 ,D,308,26493,8
+E01006514,Liverpool 037A,E08000012,Liverpool,North West, 804 , 115 , 14.3 ,D,1021,8976,3
+E01006673,Liverpool 037D,E08000012,Liverpool,North West, 978 , 116 , 11.9 ,C,1408,1918,1
+E01033757,Liverpool 037E,E08000012,Liverpool,North West, 545 , 56 , 10.3 ,C,803,11022,4
+E01033768,Liverpool 037F,E08000012,Liverpool,North West, 761 , 118 , 15.5 ,C,738,2325,1
+E01034402,Liverpool 037G,E08000012,Liverpool,North West, 606 , 47 , 7.8 ,B,1195,10996,4
+E01034403,Liverpool 037H,E08000012,Liverpool,North West, 672 , 52 , 7.7 ,B,1779,4667,2
+E01006550,Liverpool 038A,E08000012,Liverpool,North West, 531 , 108 , 20.3 ,D,660,18200,6
+E01006557,Liverpool 038B,E08000012,Liverpool,North West, 617 , 131 , 21.2 ,D,794,13690,5
+E01006721,Liverpool 038C,E08000012,Liverpool,North West, 850 , 189 , 22.2 ,C,1204,300,1
+E01006722,Liverpool 038D,E08000012,Liverpool,North West, 596 , 146 , 24.5 ,D,934,8234,3
+E01006723,Liverpool 038E,E08000012,Liverpool,North West, 723 , 155 , 21.4 ,D,1006,7515,3
+E01006724,Liverpool 038F,E08000012,Liverpool,North West, 536 , 106 , 19.8 ,D,503,15080,5
+E01006552,Liverpool 039A,E08000012,Liverpool,North West, 793 , 148 , 18.7 ,D,920,889,1
+E01006556,Liverpool 039B,E08000012,Liverpool,North West, 871 , 189 , 21.7 ,D,1536,111,1
+E01006674,Liverpool 039C,E08000012,Liverpool,North West, 920 , 129 , 14.0 ,C,1231,776,1
+E01006679,Liverpool 039D,E08000012,Liverpool,North West, 999 , 118 , 11.8 ,C,1305,1504,1
+E01006709,Liverpool 040A,E08000012,Liverpool,North West, 702 , 65 , 9.3 ,C,543,4023,2
+E01006769,Liverpool 040B,E08000012,Liverpool,North West, 688 , 65 , 9.4 ,C,748,2596,1
+E01006770,Liverpool 040C,E08000012,Liverpool,North West, 533 , 44 , 8.3 ,C,501,5446,2
+E01006771,Liverpool 040D,E08000012,Liverpool,North West, 845 , 70 , 8.3 ,C,773,528,1
+E01006772,Liverpool 040E,E08000012,Liverpool,North West, 514 , 38 , 7.4 ,C,452,9842,3
+E01006775,Liverpool 040F,E08000012,Liverpool,North West, 695 , 66 , 9.5 ,C,549,2359,1
+E01006582,Liverpool 041A,E08000012,Liverpool,North West, 638 , 53 , 8.3 ,D,314,31349,10
+E01006589,Liverpool 041B,E08000012,Liverpool,North West, 610 , 56 , 9.2 ,D,368,26835,8
+E01006591,Liverpool 041C,E08000012,Liverpool,North West, 657 , 77 , 11.7 ,D,511,21341,7
+E01006592,Liverpool 041D,E08000012,Liverpool,North West, 632 , 46 , 7.3 ,D,512,29442,9
+E01006597,Liverpool 041E,E08000012,Liverpool,North West, 723 , 55 , 7.6 ,D,523,27094,9
+E01006553,Liverpool 042A,E08000012,Liverpool,North West, 578 , 99 , 17.1 ,D,636,13653,5
+E01006588,Liverpool 042C,E08000012,Liverpool,North West, 722 , 76 , 10.5 ,D,731,11040,4
+E01006590,Liverpool 042D,E08000012,Liverpool,North West, 687 , 80 , 11.6 ,D,622,15616,5
+E01006593,Liverpool 042E,E08000012,Liverpool,North West, 617 , 88 , 14.3 ,D,632,14691,5
+E01034404,Liverpool 042H,E08000012,Liverpool,North West, 459 , 75 , 16.3 ,D,394,28668,9
+E01006520,Liverpool 043A,E08000012,Liverpool,North West," 1,095 ", 151 , 13.8 ,C,1732,5411,2
+E01006549,Liverpool 043B,E08000012,Liverpool,North West, 809 , 144 , 17.8 ,C,1094,3198,1
+E01006675,Liverpool 043C,E08000012,Liverpool,North West," 1,160 ", 160 , 13.8 ,C,1505,2053,1
+E01006677,Liverpool 043D,E08000012,Liverpool,North West, 685 , 132 , 19.3 ,C,1325,2943,1
+E01006518,Liverpool 044A,E08000012,Liverpool,North West, 850 , 94 , 11.1 ,C,1077,1102,1
+E01006630,Liverpool 044B,E08000012,Liverpool,North West, 996 , 94 , 9.4 ,C,1304,3831,2
+E01006632,Liverpool 044C,E08000012,Liverpool,North West, 890 , 119 , 13.4 ,C,1001,1711,1
+E01006676,Liverpool 044D,E08000012,Liverpool,North West, 822 , 132 , 16.1 ,C,1297,796,1
+E01006678,Liverpool 044E,E08000012,Liverpool,North West, 990 , 110 , 11.1 ,C,1098,1179,1
+E01006706,Liverpool 045A,E08000012,Liverpool,North West, 590 , 71 , 12.0 ,C,431,822,1
+E01006707,Liverpool 045B,E08000012,Liverpool,North West, 608 , 70 , 11.5 ,C,443,1486,1
+E01006708,Liverpool 045C,E08000012,Liverpool,North West, 782 , 63 , 8.1 ,C,653,3892,2
+E01006710,Liverpool 045D,E08000012,Liverpool,North West, 661 , 55 , 8.3 ,C,514,4542,2
+E01006792,Liverpool 046A,E08000012,Liverpool,North West, 593 , 36 , 6.1 ,D,422,27835,9
+E01006794,Liverpool 046B,E08000012,Liverpool,North West, 744 , 67 , 9.0 ,D,632,21309,7
+E01006800,Liverpool 046C,E08000012,Liverpool,North West, 715 , 48 , 6.7 ,D,439,25811,8
+E01006801,Liverpool 046D,E08000012,Liverpool,North West, 875 , 45 , 5.1 ,B,667,29948,9
+E01006532,Liverpool 047A,E08000012,Liverpool,North West, 646 , 37 , 5.7 ,D,407,31874,10
+E01006539,Liverpool 047B,E08000012,Liverpool,North West, 617 , 40 , 6.5 ,D,476,30835,10
+E01006583,Liverpool 047C,E08000012,Liverpool,North West, 494 , 32 , 6.5 ,D,234,33328,10
+E01006594,Liverpool 047D,E08000012,Liverpool,North West, 582 , 28 , 4.8 ,D,406,32324,10
+E01006796,Liverpool 047E,E08000012,Liverpool,North West, 650 , 30 , 4.6 ,D,409,32961,10
+E01006522,Liverpool 048A,E08000012,Liverpool,North West," 1,054 ", 155 , 14.7 ,C,1293,4072,2
+E01006524,Liverpool 048B,E08000012,Liverpool,North West, 666 , 44 , 6.6 ,C,691,30468,10
+E01006526,Liverpool 048C,E08000012,Liverpool,North West, 667 , 67 , 10.0 ,D,596,20221,6
+E01006529,Liverpool 048D,E08000012,Liverpool,North West, 570 , 50 , 8.8 ,D,447,19517,6
+E01006551,Liverpool 048E,E08000012,Liverpool,North West, 820 , 89 , 10.9 ,C,1026,3797,2
+E01006554,Liverpool 048F,E08000012,Liverpool,North West, 652 , 105 , 16.1 ,D,655,12655,4
+E01006525,Liverpool 049A,E08000012,Liverpool,North West, 501 , 42 , 8.4 ,D,323,29261,9
+E01006595,Liverpool 049B,E08000012,Liverpool,North West, 830 , 82 , 9.9 ,D,704,20676,7
+E01006596,Liverpool 049C,E08000012,Liverpool,North West, 605 , 59 , 9.8 ,D,384,23425,7
+E01006689,Liverpool 049D,E08000012,Liverpool,North West, 701 , 65 , 9.3 ,D,483,24963,8
+E01006633,Liverpool 050B,E08000012,Liverpool,North West, 711 , 91 , 12.8 ,C,771,468,1
+E01032505,Liverpool 050F,E08000012,Liverpool,North West, 592 , 58 , 9.8 ,D,457,10642,4
+E01032506,Liverpool 050G,E08000012,Liverpool,North West, 709 , 111 , 15.7 ,D,733,6138,2
+E01032507,Liverpool 050H,E08000012,Liverpool,North West, 678 , 81 , 11.9 ,D,699,12506,4
+E01033748,Liverpool 050I,E08000012,Liverpool,North West, 774 , 67 , 8.7 ,C,922,23542,7
+E01033767,Liverpool 050J,E08000012,Liverpool,North West, 539 , 119 , 22.1 ,C,609,2162,1
+E01006793,Liverpool 051A,E08000012,Liverpool,North West, 753 , 52 , 6.9 ,C,767,9878,3
+E01006795,Liverpool 051B,E08000012,Liverpool,North West, 672 , 55 , 8.2 ,D,480,24277,8
+E01006797,Liverpool 051C,E08000012,Liverpool,North West, 656 , 67 , 10.2 ,D,792,4937,2
+E01006798,Liverpool 051D,E08000012,Liverpool,North West, 603 , 38 , 6.3 ,D,381,24240,8
+E01006799,Liverpool 051E,E08000012,Liverpool,North West," 1,088 ", 99 , 9.1 ,C,1251,7419,3
+E01006521,Liverpool 052A,E08000012,Liverpool,North West, 932 , 91 , 9.8 ,C,1203,11293,4
+E01006523,Liverpool 052B,E08000012,Liverpool,North West, 842 , 105 , 12.5 ,C,875,7756,3
+E01006528,Liverpool 052C,E08000012,Liverpool,North West, 600 , 48 , 8.0 ,D,543,13677,5
+E01006628,Liverpool 052D,E08000012,Liverpool,North West, 682 , 67 , 9.8 ,D,555,17233,6
+E01006629,Liverpool 052E,E08000012,Liverpool,North West, 624 , 52 , 8.3 ,C,474,13307,4
+E01006527,Liverpool 053A,E08000012,Liverpool,North West, 684 , 52 , 7.6 ,C,535,15842,5
+E01006680,Liverpool 053B,E08000012,Liverpool,North West, 612 , 56 , 9.2 ,D,333,28892,9
+E01006682,Liverpool 053C,E08000012,Liverpool,North West, 517 , 44 , 8.5 ,D,300,31010,10
+E01006683,Liverpool 053D,E08000012,Liverpool,North West, 616 , 51 , 8.3 ,D,338,30724,10
+E01006686,Liverpool 053E,E08000012,Liverpool,North West, 551 , 48 , 8.7 ,D,316,25056,8
+E01006534,Liverpool 054A,E08000012,Liverpool,North West, 781 , 59 , 7.6 ,C,827,17145,6
+E01006535,Liverpool 054B,E08000012,Liverpool,North West, 685 , 56 , 8.2 ,D,728,10527,4
+E01006536,Liverpool 054C,E08000012,Liverpool,North West, 839 , 92 , 11.0 ,D,925,6622,2
+E01006681,Liverpool 054D,E08000012,Liverpool,North West, 719 , 66 , 9.2 ,C,687,12117,4
+E01006530,Liverpool 055A,E08000012,Liverpool,North West, 634 , 47 , 7.4 ,D,409,26916,8
+E01006531,Liverpool 055B,E08000012,Liverpool,North West, 691 , 54 , 7.8 ,C,561,28303,9
+E01006533,Liverpool 055C,E08000012,Liverpool,North West, 624 , 41 , 6.6 ,D,429,15008,5
+E01006537,Liverpool 055D,E08000012,Liverpool,North West," 1,139 ", 87 , 7.6 ,C,949,18046,6
+E01006538,Liverpool 055E,E08000012,Liverpool,North West, 532 , 44 , 8.3 ,D,405,19662,6
+E01006519,Liverpool 056A,E08000012,Liverpool,North West, 552 , 40 , 7.2 ,D,314,28924,9
+E01006684,Liverpool 056B,E08000012,Liverpool,North West," 1,019 ", 72 , 7.1 ,C,831,30340,9
+E01006685,Liverpool 056C,E08000012,Liverpool,North West, 626 , 51 , 8.1 ,D,435,23632,8
+E01006687,Liverpool 056D,E08000012,Liverpool,North West," 1,090 ", 54 , 5.0 ,C,976,20227,6
+E01006688,Liverpool 056E,E08000012,Liverpool,North West, 759 , 88 , 11.6 ,D,710,14561,5
+E01006740,Liverpool 057A,E08000012,Liverpool,North West, 709 , 65 , 9.2 ,C,903,2183,1
+E01006742,Liverpool 057B,E08000012,Liverpool,North West, 683 , 69 , 10.1 ,D,696,11940,4
+E01006744,Liverpool 057C,E08000012,Liverpool,North West, 769 , 93 , 12.1 ,D,777,7030,3
+E01006745,Liverpool 057D,E08000012,Liverpool,North West, 891 , 127 , 14.3 ,D,1135,3778,2
+E01006738,Liverpool 058A,E08000012,Liverpool,North West, 676 , 80 , 11.8 ,D,803,1516,1
+E01006739,Liverpool 058B,E08000012,Liverpool,North West," 1,054 ", 75 , 7.1 ,C,1101,4751,2
+E01006741,Liverpool 058C,E08000012,Liverpool,North West, 858 , 83 , 9.7 ,C,1007,4526,2
+E01006743,Liverpool 058D,E08000012,Liverpool,North West, 995 , 83 , 8.3 ,C,1016,8004,3
+E01006753,Liverpool 059A,E08000012,Liverpool,North West, 823 , 80 , 9.7 ,C,1021,2722,1
+E01006754,Liverpool 059B,E08000012,Liverpool,North West, 872 , 97 , 11.1 ,C,1245,752,1
+E01006755,Liverpool 059C,E08000012,Liverpool,North West, 691 , 71 , 10.3 ,C,1062,593,1
+E01006756,Liverpool 059D,E08000012,Liverpool,North West, 758 , 89 , 11.7 ,C,1122,1334,1
+E01006757,Liverpool 059E,E08000012,Liverpool,North West, 632 , 68 , 10.8 ,C,868,861,1
+E01006758,Liverpool 059F,E08000012,Liverpool,North West, 657 , 66 , 10.0 ,C,754,2081,1
+E01033758,Liverpool 060B,E08000012,Liverpool,North West, 529 , 57 , 10.8 ,C,1092,11610,4
+E01033760,Liverpool 060C,E08000012,Liverpool,North West, 456 , 59 , 12.9 ,C,1012,14327,5
+E01033761,Liverpool 060D,E08000012,Liverpool,North West," 1,132 ", 107 , 9.5 ,C,2655,15367,5
+E01033762,Liverpool 060E,E08000012,Liverpool,North West, 633 , 71 , 11.2 ,C,1518,17673,6
+E01034405,Liverpool 060F,E08000012,Liverpool,North West, 431 , 82 , 19.0 ,C,777,17004,6
+E01034406,Liverpool 060G,E08000012,Liverpool,North West, 442 , 66 , 14.9 ,C,872,19793,6
+E01033750,Liverpool 061A,E08000012,Liverpool,North West," 1,197 ", 79 , 6.6 ,C,2413,28196,9
+E01033756,Liverpool 061C,E08000012,Liverpool,North West, 605 , 44 , 7.3 ,C,1650,13793,5
+E01033765,Liverpool 061D,E08000012,Liverpool,North West, 744 , 55 , 7.4 ,C,1170,1885,1
+E01034407,Liverpool 061E,E08000012,Liverpool,North West, 736 , 60 , 8.2 ,B,1221,24754,8
+E01034408,Liverpool 061F,E08000012,Liverpool,North West, 776 , 64 , 8.2 ,C,794,9107,3
+E01033751,Liverpool 062A,E08000012,Liverpool,North West, 892 , 61 , 6.8 ,C,1226,7528,3
+E01034409,Liverpool 062E,E08000012,Liverpool,North West," 1,265 ", 112 , 8.9 ,B,2739,27256,9
+E01034410,Liverpool 062F,E08000012,Liverpool,North West, 622 , 92 , 14.8 ,C,1467,11174,4
+E01034411,Liverpool 062G,E08000012,Liverpool,North West, 766 , 60 , 7.8 ,C,1862,14536,5
+E01006946,Sefton 001A,E08000014,Sefton,North West, 753 , 54 , 7.2 ,D,563,16611,5
+E01007028,Sefton 001B,E08000014,Sefton,North West, 637 , 43 , 6.8 ,D,510,17699,6
+E01007029,Sefton 001C,E08000014,Sefton,North West, 630 , 51 , 8.1 ,D,488,21843,7
+E01007030,Sefton 001D,E08000014,Sefton,North West, 668 , 55 , 8.2 ,D,576,13439,4
+E01007036,Sefton 001E,E08000014,Sefton,North West, 554 , 42 , 7.6 ,D,340,24143,8
+E01006947,Sefton 002A,E08000014,Sefton,North West, 653 , 53 , 8.1 ,D,464,24386,8
+E01007031,Sefton 002B,E08000014,Sefton,North West, 608 , 47 , 7.7 ,D,531,23906,8
+E01007032,Sefton 002C,E08000014,Sefton,North West, 600 , 52 , 8.7 ,D,464,25775,8
+E01007033,Sefton 002D,E08000014,Sefton,North West, 633 , 57 , 9.0 ,D,429,19855,6
+E01007035,Sefton 002E,E08000014,Sefton,North West, 628 , 69 , 11.0 ,D,536,23321,7
+E01006944,Sefton 003A,E08000014,Sefton,North West, 973 , 67 , 6.9 ,C,1301,7718,3
+E01006948,Sefton 003B,E08000014,Sefton,North West, 706 , 60 , 8.5 ,C,615,4934,2
+E01006949,Sefton 003C,E08000014,Sefton,North West, 802 , 51 , 6.4 ,D,903,20209,6
+E01006951,Sefton 003D,E08000014,Sefton,North West, 825 , 54 , 6.5 ,C,961,14820,5
+E01007034,Sefton 003E,E08000014,Sefton,North West, 588 , 45 , 7.7 ,D,457,29123,9
+E01006945,Sefton 004A,E08000014,Sefton,North West, 969 , 132 , 13.6 ,C,1351,8106,3
+E01006950,Sefton 004B,E08000014,Sefton,North West, 975 , 169 , 17.3 ,D,1772,2378,1
+E01006969,Sefton 004D,E08000014,Sefton,North West, 749 , 115 , 15.4 ,D,971,7274,3
+E01033094,Sefton 004F,E08000014,Sefton,North West, 707 , 128 , 18.1 ,C,1076,1663,1
+E01033097,Sefton 004G,E08000014,Sefton,North West, 660 , 92 , 13.9 ,C,838,4119,2
+E01033797,Sefton 004H,E08000014,Sefton,North West, 665 , 76 , 11.4 ,C,987,1745,1
+E01033798,Sefton 004I,E08000014,Sefton,North West, 649 , 138 , 21.3 ,D,895,1602,1
+E01007055,Sefton 005A,E08000014,Sefton,North West, 602 , 73 , 12.1 ,D,603,1811,1
+E01007056,Sefton 005B,E08000014,Sefton,North West, 705 , 81 , 11.5 ,D,568,12321,4
+E01007057,Sefton 005C,E08000014,Sefton,North West, 683 , 67 , 9.8 ,D,614,11943,4
+E01007062,Sefton 005D,E08000014,Sefton,North West, 640 , 64 , 10.0 ,D,581,19603,6
+E01007063,Sefton 005E,E08000014,Sefton,North West, 651 , 70 , 10.8 ,D,561,17012,6
+E01007058,Sefton 006A,E08000014,Sefton,North West, 694 , 71 , 10.2 ,D,820,10191,4
+E01007059,Sefton 006B,E08000014,Sefton,North West, 657 , 59 , 9.0 ,D,585,17395,6
+E01007060,Sefton 006C,E08000014,Sefton,North West, 617 , 58 , 9.4 ,D,562,6764,3
+E01007061,Sefton 006D,E08000014,Sefton,North West, 613 , 51 , 8.3 ,D,486,16077,5
+E01007064,Sefton 006E,E08000014,Sefton,North West, 500 , 40 , 8.0 ,E,499,20355,7
+E01006934,Sefton 007A,E08000014,Sefton,North West, 693 , 68 , 9.8 ,D,646,14485,5
+E01006970,Sefton 007B,E08000014,Sefton,North West, 992 , 179 , 18.0 ,D,1220,7967,3
+E01006994,Sefton 007C,E08000014,Sefton,North West, 772 , 107 , 13.9 ,D,876,7175,3
+E01006996,Sefton 007D,E08000014,Sefton,North West, 800 , 105 , 13.1 ,D,955,8664,3
+E01006998,Sefton 007E,E08000014,Sefton,North West, 715 , 90 , 12.6 ,D,763,8159,3
+E01006995,Sefton 008A,E08000014,Sefton,North West, 536 , 35 , 6.5 ,D,549,22476,7
+E01006997,Sefton 008B,E08000014,Sefton,North West, 663 , 65 , 9.8 ,D,603,10602,4
+E01006999,Sefton 008C,E08000014,Sefton,North West, 738 , 51 , 6.9 ,D,600,13719,5
+E01007000,Sefton 008D,E08000014,Sefton,North West, 628 , 61 , 9.7 ,C,820,8738,3
+E01007001,Sefton 008E,E08000014,Sefton,North West, 742 , 89 , 12.0 ,D,596,8935,3
+E01007002,Sefton 008F,E08000014,Sefton,North West, 946 , 35 , 3.7 ,B,1190,20183,6
+E01006928,Sefton 009A,E08000014,Sefton,North West, 623 , 37 , 5.9 ,D,605,29153,9
+E01006935,Sefton 009B,E08000014,Sefton,North West, 730 , 67 , 9.2 ,D,820,18573,6
+E01006971,Sefton 009C,E08000014,Sefton,North West, 830 , 67 , 8.1 ,C,907,16001,5
+E01006972,Sefton 009D,E08000014,Sefton,North West, 920 , 54 , 5.9 ,C,953,19011,6
+E01006973,Sefton 009E,E08000014,Sefton,North West, 706 , 38 , 5.4 ,C,738,23434,7
+E01006974,Sefton 009F,E08000014,Sefton,North West, 695 , 38 , 5.5 ,D,588,30730,10
+E01006929,Sefton 010A,E08000014,Sefton,North West, 644 , 69 , 10.7 ,D,533,14782,5
+E01006930,Sefton 010B,E08000014,Sefton,North West, 656 , 64 , 9.8 ,D,473,15376,5
+E01006931,Sefton 010C,E08000014,Sefton,North West, 680 , 60 , 8.8 ,D,486,26977,8
+E01006932,Sefton 010D,E08000014,Sefton,North West, 619 , 44 , 7.1 ,D,404,31216,10
+E01006933,Sefton 010E,E08000014,Sefton,North West, 615 , 61 , 9.9 ,D,493,12381,4
+E01006920,Sefton 011A,E08000014,Sefton,North West, 750 , 74 , 9.9 ,D,615,15326,5
+E01006924,Sefton 011B,E08000014,Sefton,North West, 699 , 69 , 9.9 ,D,731,4769,2
+E01006925,Sefton 011C,E08000014,Sefton,North West, 729 , 55 , 7.5 ,C,638,10684,4
+E01006927,Sefton 011D,E08000014,Sefton,North West, 834 , 66 , 7.9 ,C,643,17603,6
+E01006921,Sefton 012A,E08000014,Sefton,North West, 616 , 35 , 5.7 ,D,394,28477,9
+E01006922,Sefton 012B,E08000014,Sefton,North West, 627 , 27 , 4.3 ,D,354,26872,8
+E01006923,Sefton 012C,E08000014,Sefton,North West, 744 , 46 , 6.2 ,D,456,25355,8
+E01006926,Sefton 012D,E08000014,Sefton,North West, 768 , 36 , 4.7 ,D,505,31992,10
+E01006985,Sefton 013A,E08000014,Sefton,North West, 620 , 35 , 5.6 ,D,361,31226,10
+E01006986,Sefton 013B,E08000014,Sefton,North West, 558 , 27 , 4.8 ,D,350,27298,9
+E01006987,Sefton 013C,E08000014,Sefton,North West, 554 , 38 , 6.9 ,D,374,26017,8
+E01006989,Sefton 013D,E08000014,Sefton,North West, 562 , 31 , 5.5 ,D,361,27686,9
+E01006990,Sefton 013E,E08000014,Sefton,North West, 496 , 23 , 4.6 ,D,310,33253,10
+E01006988,Sefton 014A,E08000014,Sefton,North West, 692 , 62 , 9.0 ,D,538,19746,6
+E01007079,Sefton 014B,E08000014,Sefton,North West, 679 , 39 , 5.7 ,D,479,31031,10
+E01007080,Sefton 014C,E08000014,Sefton,North West, 658 , 58 , 8.8 ,D,507,21188,7
+E01007081,Sefton 014D,E08000014,Sefton,North West, 790 , 52 , 6.6 ,D,644,29007,9
+E01006991,Sefton 015A,E08000014,Sefton,North West, 623 , 31 , 5.0 ,D,384,32704,10
+E01006992,Sefton 015B,E08000014,Sefton,North West, 535 , 35 , 6.5 ,D,479,20592,7
+E01006993,Sefton 015C,E08000014,Sefton,North West, 616 , 30 , 4.9 ,D,350,31279,10
+E01007078,Sefton 015D,E08000014,Sefton,North West, 664 , 48 , 7.2 ,D,417,29592,9
+E01007075,Sefton 016A,E08000014,Sefton,North West, 632 , 51 , 8.1 ,D,425,23415,7
+E01007076,Sefton 016B,E08000014,Sefton,North West, 659 , 50 , 7.6 ,B,940,18771,6
+E01007077,Sefton 016C,E08000014,Sefton,North West, 620 , 49 , 7.9 ,D,423,25193,8
+E01007082,Sefton 016D,E08000014,Sefton,North West, 632 , 47 , 7.4 ,D,377,25310,8
+E01007067,Sefton 017A,E08000014,Sefton,North West, 635 , 43 , 6.8 ,D,431,22695,7
+E01007068,Sefton 017B,E08000014,Sefton,North West, 500 , 32 , 6.4 ,D,255,29289,9
+E01007069,Sefton 017C,E08000014,Sefton,North West, 699 , 56 , 8.0 ,D,509,16770,5
+E01007070,Sefton 017D,E08000014,Sefton,North West, 623 , 34 , 5.5 ,D,377,29575,9
+E01007101,Sefton 017E,E08000014,Sefton,North West, 632 , 45 , 7.1 ,D,406,27741,9
+E01007095,Sefton 018C,E08000014,Sefton,North West, 736 , 55 , 7.5 ,D,523,25663,8
+E01007096,Sefton 018D,E08000014,Sefton,North West, 593 , 39 , 6.6 ,D,346,28218,9
+E01007100,Sefton 018E,E08000014,Sefton,North West, 614 , 37 , 6.0 ,D,521,24749,8
+E01033799,Sefton 018G,E08000014,Sefton,North West, 613 , 32 , 5.2 ,B,498,19119,6
+E01033800,Sefton 018H,E08000014,Sefton,North West, 659 , 50 , 7.6 ,D,363,15580,5
+E01007074,Sefton 019A,E08000014,Sefton,North West, 644 , 55 , 8.5 ,C,455,14361,5
+E01007097,Sefton 019B,E08000014,Sefton,North West, 673 , 43 , 6.4 ,D,460,26180,8
+E01007098,Sefton 019C,E08000014,Sefton,North West, 747 , 44 , 5.9 ,B,998,25653,8
+E01007099,Sefton 019D,E08000014,Sefton,North West, 719 , 40 , 5.6 ,D,595,23008,7
+E01007065,Sefton 020A,E08000014,Sefton,North West, 518 , 47 , 9.1 ,D,456,20339,7
+E01007066,Sefton 020B,E08000014,Sefton,North West, 620 , 59 , 9.5 ,D,514,22000,7
+E01007071,Sefton 020C,E08000014,Sefton,North West, 608 , 40 , 6.6 ,D,427,29374,9
+E01007072,Sefton 020D,E08000014,Sefton,North West, 708 , 44 , 6.2 ,C,560,24834,8
+E01007073,Sefton 020E,E08000014,Sefton,North West, 511 , 40 , 7.8 ,D,310,30091,9
+E01007020,Sefton 021A,E08000014,Sefton,North West, 604 , 62 , 10.3 ,D,464,7215,3
+E01007022,Sefton 021B,E08000014,Sefton,North West, 621 , 78 , 12.6 ,D,642,8335,3
+E01007023,Sefton 021C,E08000014,Sefton,North West, 556 , 40 , 7.2 ,D,339,29642,9
+E01007027,Sefton 021D,E08000014,Sefton,North West, 943 , 60 , 6.4 ,D,567,28863,9
+E01007037,Sefton 021E,E08000014,Sefton,North West, 742 , 61 , 8.2 ,D,709,24737,8
+E01007038,Sefton 021F,E08000014,Sefton,North West, 686 , 43 , 6.3 ,B,848,11046,4
+E01006936,Sefton 022A,E08000014,Sefton,North West, 791 , 35 , 4.4 ,C,666,28556,9
+E01006937,Sefton 022B,E08000014,Sefton,North West, 523 , 41 , 7.8 ,D,326,32322,10
+E01006938,Sefton 022C,E08000014,Sefton,North West, 604 , 31 , 5.1 ,C,474,29462,9
+E01006939,Sefton 022D,E08000014,Sefton,North West, 730 , 69 , 9.5 ,D,666,20027,6
+E01006940,Sefton 022E,E08000014,Sefton,North West, 669 , 56 , 8.4 ,C,575,26345,8
+E01006943,Sefton 022F,E08000014,Sefton,North West, 509 , 36 , 7.1 ,D,317,32233,10
+E01007083,Sefton 023A,E08000014,Sefton,North West, 496 , 41 , 8.3 ,D,319,13420,4
+E01007085,Sefton 023B,E08000014,Sefton,North West, 587 , 70 , 11.9 ,C,491,2087,1
+E01007086,Sefton 023C,E08000014,Sefton,North West, 521 , 67 , 12.9 ,C,535,818,1
+E01007091,Sefton 023D,E08000014,Sefton,North West, 627 , 58 , 9.3 ,C,514,4779,2
+E01007092,Sefton 023E,E08000014,Sefton,North West, 515 , 49 , 9.5 ,D,557,1467,1
+E01006979,Sefton 024A,E08000014,Sefton,North West, 626 , 83 , 13.3 ,C,650,804,1
+E01006980,Sefton 024B,E08000014,Sefton,North West, 651 , 83 , 12.7 ,C,636,864,1
+E01007024,Sefton 024C,E08000014,Sefton,North West, 530 , 42 , 7.9 ,C,575,2990,1
+E01007026,Sefton 024D,E08000014,Sefton,North West, 558 , 57 , 10.2 ,C,499,6252,2
+E01007089,Sefton 024E,E08000014,Sefton,North West, 696 , 68 , 9.8 ,C,718,1937,1
+E01007021,Sefton 025A,E08000014,Sefton,North West, 556 , 41 , 7.4 ,D,380,28991,9
+E01007025,Sefton 025B,E08000014,Sefton,North West, 555 , 44 , 7.9 ,D,285,31944,10
+E01007105,Sefton 025C,E08000014,Sefton,North West, 767 , 68 , 8.9 ,D,594,18303,6
+E01007106,Sefton 025D,E08000014,Sefton,North West, 767 , 61 , 8.0 ,D,644,21339,7
+E01007107,Sefton 025E,E08000014,Sefton,North West, 506 , 44 , 8.7 ,D,281,29274,9
+E01007108,Sefton 025F,E08000014,Sefton,North West, 630 , 58 , 9.2 ,D,394,23418,7
+E01007039,Sefton 026A,E08000014,Sefton,North West, 541 , 32 , 5.9 ,D,431,17766,6
+E01007040,Sefton 026B,E08000014,Sefton,North West, 871 , 62 , 7.1 ,D,774,12335,4
+E01007042,Sefton 026C,E08000014,Sefton,North West, 573 , 46 , 8.0 ,D,397,16118,5
+E01007044,Sefton 026D,E08000014,Sefton,North West, 651 , 52 , 8.0 ,D,386,24864,8
+E01007045,Sefton 026E,E08000014,Sefton,North West, 501 , 33 , 6.6 ,D,287,24549,8
+E01007041,Sefton 027A,E08000014,Sefton,North West, 605 , 54 , 8.9 ,D,561,15207,5
+E01007043,Sefton 027B,E08000014,Sefton,North West, 632 , 45 , 7.1 ,D,364,24601,8
+E01007046,Sefton 027C,E08000014,Sefton,North West, 758 , 56 , 7.4 ,D,598,18518,6
+E01007053,Sefton 027D,E08000014,Sefton,North West, 581 , 43 , 7.4 ,D,374,13937,5
+E01007084,Sefton 027E,E08000014,Sefton,North West, 558 , 19 , 3.4 ,D,291,26138,8
+E01006941,Sefton 028A,E08000014,Sefton,North West, 720 , 69 , 9.6 ,C,604,22959,7
+E01006942,Sefton 028B,E08000014,Sefton,North West, 671 , 76 , 11.3 ,D,535,17795,6
+E01006954,Sefton 028C,E08000014,Sefton,North West, 715 , 63 , 8.8 ,D,511,12332,4
+E01007104,Sefton 028D,E08000014,Sefton,North West, 591 , 56 , 9.5 ,D,477,21383,7
+E01007109,Sefton 028E,E08000014,Sefton,North West, 690 , 86 , 12.5 ,D,575,17142,6
+E01007048,Sefton 029A,E08000014,Sefton,North West, 645 , 66 , 10.2 ,C,608,2787,1
+E01007054,Sefton 029B,E08000014,Sefton,North West, 631 , 65 , 10.3 ,C,673,5427,2
+E01007087,Sefton 029C,E08000014,Sefton,North West, 647 , 73 , 11.3 ,C,511,1872,1
+E01007088,Sefton 029D,E08000014,Sefton,North West, 628 , 54 , 8.6 ,C,447,5970,2
+E01007090,Sefton 029E,E08000014,Sefton,North West, 583 , 65 , 11.1 ,C,504,2146,1
+E01006955,Sefton 030A,E08000014,Sefton,North West, 666 , 57 , 8.6 ,D,441,21124,7
+E01006956,Sefton 030B,E08000014,Sefton,North West, 818 , 126 , 15.4 ,D,875,7402,3
+E01006958,Sefton 030C,E08000014,Sefton,North West, 838 , 118 , 14.1 ,D,760,5149,2
+E01007102,Sefton 030D,E08000014,Sefton,North West, 625 , 61 , 9.8 ,D,446,12672,4
+E01007103,Sefton 030E,E08000014,Sefton,North West, 643 , 54 , 8.4 ,D,463,23736,8
+E01006978,Sefton 031A,E08000014,Sefton,North West, 585 , 49 , 8.4 ,D,390,18917,6
+E01006981,Sefton 031B,E08000014,Sefton,North West, 622 , 86 , 13.8 ,C,555,1812,1
+E01006982,Sefton 031C,E08000014,Sefton,North West, 572 , 74 , 12.9 ,D,469,16533,5
+E01006983,Sefton 031D,E08000014,Sefton,North West, 713 , 56 , 7.9 ,D,541,15287,5
+E01006984,Sefton 031E,E08000014,Sefton,North West, 522 , 72 , 13.8 ,C,458,1814,1
+E01006952,Sefton 032A,E08000014,Sefton,North West, 635 , 81 , 12.8 ,C,771,816,1
+E01006953,Sefton 032B,E08000014,Sefton,North West, 738 , 95 , 12.9 ,C,858,4551,2
+E01006957,Sefton 032C,E08000014,Sefton,North West, 882 , 116 , 13.2 ,C,1128,4018,2
+E01006959,Sefton 032D,E08000014,Sefton,North West, 717 , 85 , 11.9 ,D,726,15109,5
+E01006977,Sefton 032E,E08000014,Sefton,North West," 1,032 ", 100 , 9.7 ,C,976,5791,2
+E01006976,Sefton 033A,E08000014,Sefton,North West, 628 , 60 , 9.6 ,D,468,10838,4
+E01007014,Sefton 033B,E08000014,Sefton,North West, 663 , 59 , 8.9 ,D,442,18330,6
+E01007047,Sefton 033E,E08000014,Sefton,North West, 750 , 72 , 9.6 ,C,579,8307,3
+E01033095,Sefton 033F,E08000014,Sefton,North West," 1,053 ", 76 , 7.2 ,B,1039,24691,8
+E01007004,Sefton 034A,E08000014,Sefton,North West, 690 , 108 , 15.7 ,D,689,920,1
+E01007005,Sefton 034B,E08000014,Sefton,North West, 710 , 111 , 15.6 ,C,773,399,1
+E01007011,Sefton 034C,E08000014,Sefton,North West, 719 , 99 , 13.8 ,C,921,342,1
+E01007016,Sefton 034D,E08000014,Sefton,North West, 801 , 121 , 15.1 ,D,794,3083,1
+E01007017,Sefton 034E,E08000014,Sefton,North West, 783 , 134 , 17.1 ,C,889,2039,1
+E01007019,Sefton 035A,E08000014,Sefton,North West, 640 , 99 , 15.5 ,C,530,690,1
+E01007049,Sefton 035B,E08000014,Sefton,North West, 928 , 67 , 7.2 ,C,754,12344,4
+E01007050,Sefton 035C,E08000014,Sefton,North West, 499 , 52 , 10.4 ,D,323,13970,5
+E01007051,Sefton 035D,E08000014,Sefton,North West, 542 , 92 , 17.0 ,C,536,2079,1
+E01007052,Sefton 035E,E08000014,Sefton,North West, 570 , 85 , 14.9 ,D,633,3396,2
+E01006964,Sefton 036A,E08000014,Sefton,North West, 736 , 152 , 20.7 ,D,832,1184,1
+E01007003,Sefton 036B,E08000014,Sefton,North West, 610 , 152 , 24.9 ,D,897,174,1
+E01007006,Sefton 036C,E08000014,Sefton,North West, 650 , 108 , 16.6 ,C,808,231,1
+E01007012,Sefton 036D,E08000014,Sefton,North West, 658 , 92 , 14.0 ,D,642,3798,2
+E01007013,Sefton 036E,E08000014,Sefton,North West, 720 , 162 , 22.5 ,D,964,409,1
+E01006967,Sefton 037A,E08000014,Sefton,North West, 917 , 115 , 12.5 ,C,1130,1031,1
+E01007007,Sefton 037B,E08000014,Sefton,North West, 711 , 62 , 8.7 ,C,696,233,1
+E01007008,Sefton 037C,E08000014,Sefton,North West, 677 , 119 , 17.6 ,C,757,193,1
+E01007009,Sefton 037D,E08000014,Sefton,North West, 966 , 98 , 10.1 ,C,1188,800,1
+E01007010,Sefton 037E,E08000014,Sefton,North West, 725 , 113 , 15.6 ,C,803,1312,1
+E01006960,Sefton 038A,E08000014,Sefton,North West, 473 , 45 , 9.5 ,D,294,12610,4
+E01006961,Sefton 038B,E08000014,Sefton,North West, 718 , 128 , 17.8 ,D,861,1962,1
+E01006962,Sefton 038C,E08000014,Sefton,North West, 676 , 82 , 12.1 ,D,683,4935,2
+E01006963,Sefton 038D,E08000014,Sefton,North West, 728 , 179 , 24.6 ,D,1080,646,1
+E01006965,Sefton 038E,E08000014,Sefton,North West, 619 , 94 , 15.2 ,D,514,3636,2
+E01006966,Sefton 038F,E08000014,Sefton,North West, 747 , 96 , 12.9 ,C,784,4527,2
+E01006882,St. Helens 001A,E08000013,St. Helens,North West, 526 , 31 , 5.9 ,D,326,29259,9
+E01006883,St. Helens 001B,E08000013,St. Helens,North West, 656 , 57 , 8.7 ,D,429,23769,8
+E01006884,St. Helens 001C,E08000013,St. Helens,North West, 654 , 54 , 8.3 ,D,452,21926,7
+E01006885,St. Helens 001D,E08000013,St. Helens,North West, 600 , 58 , 9.7 ,D,427,27418,9
+E01006886,St. Helens 001E,E08000013,St. Helens,North West, 601 , 42 , 7.0 ,D,323,26791,8
+E01006887,St. Helens 001F,E08000013,St. Helens,North West, 627 , 53 , 8.5 ,D,626,13344,4
+E01006802,St. Helens 002A,E08000013,St. Helens,North West, 759 , 68 , 9.0 ,C,749,15914,5
+E01006804,St. Helens 002B,E08000013,St. Helens,North West, 688 , 56 , 8.1 ,D,520,15788,5
+E01006806,St. Helens 002C,E08000013,St. Helens,North West, 643 , 37 , 5.8 ,D,328,28701,9
+E01006807,St. Helens 002D,E08000013,St. Helens,North West, 613 , 38 , 6.2 ,D,324,29608,9
+E01006803,St. Helens 003A,E08000013,St. Helens,North West, 643 , 42 , 6.5 ,D,361,24558,8
+E01006805,St. Helens 003B,E08000013,St. Helens,North West, 653 , 70 , 10.7 ,D,599,8948,3
+E01006808,St. Helens 003C,E08000013,St. Helens,North West, 558 , 30 , 5.4 ,D,278,26608,8
+E01006809,St. Helens 003D,E08000013,St. Helens,North West, 628 , 48 , 7.6 ,D,357,24062,8
+E01006849,St. Helens 004A,E08000013,St. Helens,North West, 677 , 91 , 13.4 ,C,844,2107,1
+E01006850,St. Helens 004B,E08000013,St. Helens,North West, 803 , 89 , 11.1 ,D,977,2301,1
+E01006851,St. Helens 004C,E08000013,St. Helens,North West, 620 , 62 , 10.0 ,D,518,13246,4
+E01006852,St. Helens 004D,E08000013,St. Helens,North West, 552 , 33 , 6.0 ,D,278,24945,8
+E01006853,St. Helens 004E,E08000013,St. Helens,North West, 774 , 43 , 5.6 ,D,594,20847,7
+E01006854,St. Helens 004F,E08000013,St. Helens,North West, 668 , 85 , 12.7 ,D,572,9397,3
+E01006855,St. Helens 004G,E08000013,St. Helens,North West, 685 , 56 , 8.2 ,D,562,7430,3
+E01006836,St. Helens 005A,E08000013,St. Helens,North West, 660 , 79 , 12.0 ,D,623,8006,3
+E01006839,St. Helens 005B,E08000013,St. Helens,North West, 595 , 59 , 9.9 ,C,396,9365,3
+E01006840,St. Helens 005C,E08000013,St. Helens,North West, 691 , 68 , 9.8 ,D,555,10268,4
+E01006842,St. Helens 005D,E08000013,St. Helens,North West, 700 , 78 , 11.1 ,C,789,4298,2
+E01006837,St. Helens 006A,E08000013,St. Helens,North West, 648 , 61 , 9.4 ,D,538,12261,4
+E01006838,St. Helens 006B,E08000013,St. Helens,North West, 767 , 90 , 11.7 ,C,874,6617,2
+E01006841,St. Helens 006C,E08000013,St. Helens,North West, 688 , 29 , 4.2 ,D,415,28164,9
+E01006843,St. Helens 006D,E08000013,St. Helens,North West, 572 , 69 , 12.1 ,D,414,10188,4
+E01006914,St. Helens 007A,E08000013,St. Helens,North West, 559 , 38 , 6.8 ,D,305,31296,10
+E01006915,St. Helens 007B,E08000013,St. Helens,North West, 693 , 82 , 11.8 ,D,645,7304,3
+E01006916,St. Helens 007C,E08000013,St. Helens,North West, 694 , 74 , 10.7 ,D,618,10870,4
+E01006917,St. Helens 007D,E08000013,St. Helens,North West, 733 , 55 , 7.5 ,D,506,31464,10
+E01006918,St. Helens 007E,E08000013,St. Helens,North West, 542 , 56 , 10.3 ,D,364,19872,6
+E01006919,St. Helens 007F,E08000013,St. Helens,North West, 775 , 97 , 12.5 ,D,919,3108,1
+E01006810,St. Helens 008A,E08000013,St. Helens,North West, 520 , 32 , 6.2 ,D,224,21702,7
+E01006811,St. Helens 008B,E08000013,St. Helens,North West, 642 , 59 , 9.2 ,C,504,10492,4
+E01006812,St. Helens 008C,E08000013,St. Helens,North West, 624 , 77 , 12.3 ,C,749,2106,1
+E01006813,St. Helens 008D,E08000013,St. Helens,North West, 701 , 104 , 14.8 ,D,740,4653,2
+E01006814,St. Helens 008E,E08000013,St. Helens,North West, 636 , 37 , 5.8 ,D,327,26135,8
+E01006815,St. Helens 008F,E08000013,St. Helens,North West, 581 , 65 , 11.2 ,D,509,6712,2
+E01006818,St. Helens 008G,E08000013,St. Helens,North West, 548 , 37 , 6.8 ,D,303,20506,7
+E01006822,St. Helens 009A,E08000013,St. Helens,North West, 668 , 45 , 6.7 ,D,432,26044,8
+E01006823,St. Helens 009B,E08000013,St. Helens,North West, 611 , 42 , 6.9 ,D,373,31507,10
+E01006824,St. Helens 009C,E08000013,St. Helens,North West, 539 , 33 , 6.1 ,D,358,28795,9
+E01006825,St. Helens 009D,E08000013,St. Helens,North West, 658 , 37 , 5.6 ,D,401,30562,10
+E01006866,St. Helens 010A,E08000013,St. Helens,North West, 721 , 75 , 10.4 ,D,767,5241,2
+E01006867,St. Helens 010B,E08000013,St. Helens,North West, 844 , 46 , 5.5 ,D,585,25561,8
+E01006868,St. Helens 010C,E08000013,St. Helens,North West, 692 , 71 , 10.3 ,D,698,7383,3
+E01006869,St. Helens 010D,E08000013,St. Helens,North West, 777 , 79 , 10.2 ,C,772,7024,3
+E01006819,St. Helens 011A,E08000013,St. Helens,North West, 752 , 69 , 9.2 ,D,612,7943,3
+E01006820,St. Helens 011B,E08000013,St. Helens,North West, 648 , 87 , 13.4 ,D,659,1563,1
+E01006821,St. Helens 011C,E08000013,St. Helens,North West, 714 , 99 , 13.9 ,D,859,483,1
+E01006871,St. Helens 011D,E08000013,St. Helens,North West, 781 , 102 , 13.1 ,C,931,999,1
+E01006832,St. Helens 012A,E08000013,St. Helens,North West, 848 , 75 , 8.8 ,C,995,5466,2
+E01006834,St. Helens 012B,E08000013,St. Helens,North West, 670 , 139 , 20.7 ,D,685,2264,1
+E01006877,St. Helens 012C,E08000013,St. Helens,North West, 921 , 114 , 12.4 ,C,977,961,1
+E01006880,St. Helens 012D,E08000013,St. Helens,North West, 791 , 132 , 16.7 ,D,1134,195,1
+E01006881,St. Helens 012E,E08000013,St. Helens,North West, 792 , 125 , 15.8 ,C,840,929,1
+E01006863,St. Helens 013A,E08000013,St. Helens,North West, 924 , 135 , 14.6 ,C,959,1532,1
+E01006864,St. Helens 013B,E08000013,St. Helens,North West, 935 , 76 , 8.1 ,D,765,19541,6
+E01033793,St. Helens 013D,E08000013,St. Helens,North West, 561 , 26 , 4.6 ,B,526,25098,8
+E01033794,St. Helens 013E,E08000013,St. Helens,North West, 820 , 91 , 11.1 ,C,1043,1949,1
+E01006845,St. Helens 014A,E08000013,St. Helens,North West, 884 , 115 , 13.0 ,B,1327,7491,3
+E01006870,St. Helens 014B,E08000013,St. Helens,North West, 727 , 137 , 18.8 ,D,736,3394,2
+E01006872,St. Helens 014C,E08000013,St. Helens,North West, 902 , 117 , 13.0 ,C,1544,403,1
+E01006873,St. Helens 014D,E08000013,St. Helens,North West, 652 , 90 , 13.8 ,C,932,151,1
+E01006874,St. Helens 014E,E08000013,St. Helens,North West, 669 , 122 , 18.2 ,D,891,138,1
+E01006856,St. Helens 015A,E08000013,St. Helens,North West, 740 , 73 , 9.9 ,D,583,23774,8
+E01006857,St. Helens 015B,E08000013,St. Helens,North West, 659 , 42 , 6.4 ,D,386,28538,9
+E01006858,St. Helens 015C,E08000013,St. Helens,North West, 657 , 92 , 14.0 ,D,824,5602,2
+E01006859,St. Helens 015D,E08000013,St. Helens,North West, 776 , 40 , 5.2 ,D,530,29620,9
+E01006860,St. Helens 015E,E08000013,St. Helens,North West, 701 , 74 , 10.6 ,C,618,8382,3
+E01006861,St. Helens 015F,E08000013,St. Helens,North West, 805 , 107 , 13.3 ,C,916,3273,1
+E01006862,St. Helens 015G,E08000013,St. Helens,North West," 1,038 ", 83 , 8.0 ,C,1136,13863,5
+E01006831,St. Helens 016A,E08000013,St. Helens,North West, 713 , 102 , 14.3 ,D,696,6523,2
+E01006833,St. Helens 016B,E08000013,St. Helens,North West," 1,033 ", 123 , 11.9 ,C,975,16308,5
+E01006835,St. Helens 016C,E08000013,St. Helens,North West, 650 , 70 , 10.8 ,D,551,10612,4
+E01006876,St. Helens 016D,E08000013,St. Helens,North West, 690 , 107 , 15.5 ,D,634,5641,2
+E01006878,St. Helens 016E,E08000013,St. Helens,North West, 671 , 96 , 14.3 ,D,615,7981,3
+E01006879,St. Helens 016F,E08000013,St. Helens,North West, 637 , 89 , 14.0 ,D,664,7373,3
+E01006904,St. Helens 016G,E08000013,St. Helens,North West, 702 , 93 , 13.2 ,D,672,8511,3
+E01006816,St. Helens 017A,E08000013,St. Helens,North West, 759 , 111 , 14.6 ,D,855,552,1
+E01006817,St. Helens 017B,E08000013,St. Helens,North West, 677 , 83 , 12.3 ,C,896,125,1
+E01006875,St. Helens 017C,E08000013,St. Helens,North West, 570 , 72 , 12.6 ,D,627,3225,1
+E01006899,St. Helens 017D,E08000013,St. Helens,North West, 912 , 91 , 10.0 ,D,1099,5991,2
+E01006826,St. Helens 018A,E08000013,St. Helens,North West, 621 , 55 , 8.9 ,C,734,4782,2
+E01006827,St. Helens 018B,E08000013,St. Helens,North West, 651 , 31 , 4.8 ,D,421,28965,9
+E01006828,St. Helens 018C,E08000013,St. Helens,North West, 947 , 69 , 7.3 ,D,653,31308,10
+E01006829,St. Helens 018D,E08000013,St. Helens,North West, 753 , 36 , 4.8 ,B,586,28624,9
+E01006844,St. Helens 020A,E08000013,St. Helens,North West, 840 , 132 , 15.7 ,D,1035,1250,1
+E01006846,St. Helens 020B,E08000013,St. Helens,North West, 647 , 47 , 7.3 ,D,404,19558,6
+E01006847,St. Helens 020C,E08000013,St. Helens,North West, 809 , 79 , 9.8 ,C,893,2186,1
+E01006848,St. Helens 020D,E08000013,St. Helens,North West, 648 , 52 , 8.0 ,D,446,16405,5
+E01006896,St. Helens 020E,E08000013,St. Helens,North West, 687 , 48 , 7.0 ,D,397,19348,6
+E01006897,St. Helens 020F,E08000013,St. Helens,North West, 687 , 57 , 8.3 ,D,536,17324,6
+E01006901,St. Helens 020G,E08000013,St. Helens,North West, 656 , 48 , 7.3 ,D,492,23055,7
+E01006890,St. Helens 021A,E08000013,St. Helens,North West, 641 , 64 , 10.0 ,D,525,14868,5
+E01006892,St. Helens 021B,E08000013,St. Helens,North West, 589 , 40 , 6.8 ,D,453,16518,5
+E01006893,St. Helens 021C,E08000013,St. Helens,North West, 633 , 64 , 10.1 ,D,539,13074,4
+E01006894,St. Helens 021D,E08000013,St. Helens,North West, 664 , 54 , 8.1 ,D,454,19288,6
+E01006898,St. Helens 022A,E08000013,St. Helens,North West, 814 , 92 , 11.3 ,D,847,5800,2
+E01006908,St. Helens 022C,E08000013,St. Helens,North West, 652 , 78 , 12.0 ,C,823,1103,1
+E01006909,St. Helens 022D,E08000013,St. Helens,North West, 519 , 68 , 13.1 ,C,817,100,1
+E01006910,St. Helens 022E,E08000013,St. Helens,North West, 854 , 93 , 10.9 ,C,805,6094,2
+E01006911,St. Helens 022F,E08000013,St. Helens,North West, 651 , 46 , 7.1 ,D,316,17710,6
+E01033795,St. Helens 022G,E08000013,St. Helens,North West, 598 , 17 , 2.8 ,C,443,27591,9
+E01033796,St. Helens 022H,E08000013,St. Helens,North West, 745 , 68 , 9.1 ,B,814,13631,5
+E01006888,St. Helens 023A,E08000013,St. Helens,North West, 530 , 37 , 7.0 ,D,298,27936,9
+E01006889,St. Helens 023B,E08000013,St. Helens,North West, 608 , 36 , 5.9 ,D,352,27322,9
+E01006891,St. Helens 023C,E08000013,St. Helens,North West, 662 , 46 , 6.9 ,D,514,22969,7
+E01006895,St. Helens 023D,E08000013,St. Helens,North West, 675 , 33 , 4.9 ,D,410,29693,9
+E01006903,St. Helens 024A,E08000013,St. Helens,North West, 776 , 100 , 12.9 ,C,1104,1519,1
+E01006905,St. Helens 024B,E08000013,St. Helens,North West, 646 , 70 , 10.8 ,C,705,1638,1
+E01006907,St. Helens 024C,E08000013,St. Helens,North West, 704 , 80 , 11.4 ,D,630,5527,2
+E01006913,St. Helens 024D,E08000013,St. Helens,North West, 595 , 59 , 9.9 ,C,669,2770,1
+E01006912,St. Helens 024E,E08000013,St. Helens,North West, 707 , 57 , 8.1 ,C,1279,3997,2
+E01006830,St. Helens 025A,E08000013,St. Helens,North West, 681 , 106 , 15.6 ,D,981,2706,1
+E01006906,St. Helens 025B,E08000013,St. Helens,North West, 730 , 113 , 15.5 ,D,637,9994,3
+E01032904,St. Helens 025C,E08000013,St. Helens,North West, 744 , 34 , 4.6 ,C,399,30524,10
+E01032905,St. Helens 025D,E08000013,St. Helens,North West," 1,187 ", 42 , 3.5 ,C,1150,25265,8
+E01007229,Wirral 001A,E08000015,Wirral,North West, 760 , 101 , 13.3 ,D,604,9858,3
+E01007230,Wirral 001B,E08000015,Wirral,North West, 590 , 51 , 8.6 ,D,468,9481,3
+E01007231,Wirral 001C,E08000015,Wirral,North West, 755 , 78 , 10.3 ,D,647,12345,4
+E01007237,Wirral 001D,E08000015,Wirral,North West, 965 , 91 , 9.4 ,C,984,8347,3
+E01007238,Wirral 001E,E08000015,Wirral,North West, 967 , 129 , 13.3 ,D,991,2350,1
+E01007218,Wirral 002A,E08000015,Wirral,North West, 711 , 126 , 17.7 ,D,737,4496,2
+E01007232,Wirral 002B,E08000015,Wirral,North West, 665 , 80 , 12.0 ,D,527,8231,3
+E01007233,Wirral 002C,E08000015,Wirral,North West, 785 , 88 , 11.2 ,D,767,8516,3
+E01007234,Wirral 002D,E08000015,Wirral,North West, 733 , 93 , 12.7 ,D,602,11595,4
+E01007236,Wirral 002E,E08000015,Wirral,North West, 610 , 66 , 10.8 ,D,475,10171,4
+E01007307,Wirral 003A,E08000015,Wirral,North West, 743 , 59 , 7.9 ,D,495,21369,7
+E01007308,Wirral 003B,E08000015,Wirral,North West, 754 , 54 , 7.2 ,D,490,22535,7
+E01007312,Wirral 003C,E08000015,Wirral,North West, 686 , 56 , 8.2 ,D,493,16610,5
+E01007313,Wirral 003D,E08000015,Wirral,North West, 826 , 87 , 10.5 ,C,672,10440,4
+E01007315,Wirral 003E,E08000015,Wirral,North West, 644 , 59 , 9.2 ,D,393,21068,7
+E01007211,Wirral 004A,E08000015,Wirral,North West, 525 , 52 , 9.9 ,D,366,18158,6
+E01007235,Wirral 004B,E08000015,Wirral,North West, 621 , 67 , 10.8 ,D,470,11266,4
+E01007310,Wirral 004C,E08000015,Wirral,North West, 549 , 47 , 8.6 ,E,360,23259,7
+E01007311,Wirral 004D,E08000015,Wirral,North West, 631 , 56 , 8.9 ,D,382,27017,9
+E01007314,Wirral 004E,E08000015,Wirral,North West, 620 , 74 , 11.9 ,D,486,12359,4
+E01007316,Wirral 004F,E08000015,Wirral,North West, 625 , 56 , 9.0 ,D,394,21453,7
+E01007215,Wirral 005A,E08000015,Wirral,North West, 775 , 135 , 17.4 ,D,978,651,1
+E01007216,Wirral 005B,E08000015,Wirral,North West, 741 , 101 , 13.6 ,D,637,5572,2
+E01007219,Wirral 005C,E08000015,Wirral,North West, 630 , 90 , 14.3 ,D,585,4522,2
+E01007220,Wirral 005D,E08000015,Wirral,North West, 621 , 110 , 17.7 ,C,710,602,1
+E01007275,Wirral 005E,E08000015,Wirral,North West, 673 , 126 , 18.7 ,D,895,1716,1
+E01007203,Wirral 006A,E08000015,Wirral,North West, 883 , 40 , 4.5 ,C,726,20842,7
+E01007205,Wirral 006B,E08000015,Wirral,North West, 647 , 71 , 11.0 ,D,760,5769,2
+E01007210,Wirral 006C,E08000015,Wirral,North West, 904 , 89 , 9.8 ,D,1128,3622,2
+E01007309,Wirral 006D,E08000015,Wirral,North West, 630 , 48 , 7.6 ,D,380,27058,9
+E01007212,Wirral 007A,E08000015,Wirral,North West, 642 , 60 , 9.3 ,D,443,13856,5
+E01007213,Wirral 007B,E08000015,Wirral,North West, 676 , 66 , 9.8 ,D,463,18067,6
+E01007214,Wirral 007C,E08000015,Wirral,North West, 720 , 82 , 11.4 ,D,700,5310,2
+E01007217,Wirral 007D,E08000015,Wirral,North West, 880 , 157 , 17.8 ,D,895,3457,2
+E01007276,Wirral 007E,E08000015,Wirral,North West, 623 , 69 , 11.1 ,D,477,8105,3
+E01007272,Wirral 008A,E08000015,Wirral,North West, 624 , 110 , 17.6 ,D,890,280,1
+E01007273,Wirral 008B,E08000015,Wirral,North West, 654 , 123 , 18.8 ,D,967,52,1
+E01007274,Wirral 008C,E08000015,Wirral,North West, 699 , 100 , 14.3 ,C,1043,127,1
+E01007277,Wirral 008D,E08000015,Wirral,North West, 633 , 100 , 15.8 ,C,667,1475,1
+E01007278,Wirral 008E,E08000015,Wirral,North West, 649 , 115 , 17.7 ,D,866,460,1
+E01007204,Wirral 009A,E08000015,Wirral,North West, 698 , 86 , 12.3 ,D,1708,240,1
+E01007206,Wirral 009B,E08000015,Wirral,North West, 781 , 60 , 7.7 ,C,685,11451,4
+E01007207,Wirral 009C,E08000015,Wirral,North West, 716 , 79 , 11.0 ,C,1035,671,1
+E01007209,Wirral 009D,E08000015,Wirral,North West, 746 , 68 , 9.1 ,C,882,1866,1
+E01007269,Wirral 010C,E08000015,Wirral,North West, 817 , 121 , 14.8 ,B,1536,1100,1
+E01007270,Wirral 010D,E08000015,Wirral,North West, 856 , 157 , 18.3 ,D,897,1065,1
+E01007271,Wirral 010E,E08000015,Wirral,North West, 785 , 125 , 15.9 ,D,835,2761,1
+E01034836,Wirral 010G,E08000015,Wirral,North West, 542 , 65 , 12.0 ,C,649,871,1
+E01034837,Wirral 010H,E08000015,Wirral,North West, 782 , 124 , 15.9 ,D,833,2145,1
+E01007120,Wirral 011A,E08000015,Wirral,North West, 560 , 45 , 8.0 ,C,433,3236,1
+E01007121,Wirral 011B,E08000015,Wirral,North West, 708 , 131 , 18.5 ,D,810,217,1
+E01007122,Wirral 011C,E08000015,Wirral,North West, 787 , 121 , 15.4 ,C,1344,78,1
+E01007123,Wirral 011D,E08000015,Wirral,North West, 697 , 103 , 14.8 ,C,816,880,1
+E01007124,Wirral 011E,E08000015,Wirral,North West, 720 , 77 , 10.7 ,C,684,222,1
+E01007208,Wirral 012A,E08000015,Wirral,North West, 792 , 71 , 9.0 ,D,642,8031,3
+E01007221,Wirral 012B,E08000015,Wirral,North West, 675 , 66 , 9.8 ,D,564,16026,5
+E01007225,Wirral 012C,E08000015,Wirral,North West, 925 , 57 , 6.2 ,D,598,24512,8
+E01007227,Wirral 012D,E08000015,Wirral,North West, 703 , 75 , 10.7 ,D,764,3468,2
+E01007228,Wirral 012E,E08000015,Wirral,North West, 715 , 70 , 9.8 ,C,835,2723,1
+E01007195,Wirral 013A,E08000015,Wirral,North West, 691 , 52 , 7.5 ,D,447,29749,9
+E01007199,Wirral 013B,E08000015,Wirral,North West, 638 , 39 , 6.1 ,D,370,30908,10
+E01007222,Wirral 013C,E08000015,Wirral,North West, 730 , 38 , 5.2 ,D,486,23394,7
+E01007223,Wirral 013D,E08000015,Wirral,North West, 649 , 27 , 4.2 ,C,419,12682,4
+E01007193,Wirral 014A,E08000015,Wirral,North West, 769 , 59 , 7.7 ,C,684,24369,8
+E01007194,Wirral 014B,E08000015,Wirral,North West, 693 , 68 , 9.8 ,D,658,17388,6
+E01007200,Wirral 014C,E08000015,Wirral,North West, 682 , 46 , 6.7 ,D,479,31416,10
+E01007201,Wirral 014D,E08000015,Wirral,North West, 649 , 59 , 9.1 ,D,535,21875,7
+E01007202,Wirral 014E,E08000015,Wirral,North West, 710 , 73 , 10.3 ,D,675,10541,4
+E01007125,Wirral 015A,E08000015,Wirral,North West, 793 , 144 , 18.2 ,D,1023,2427,1
+E01007156,Wirral 015B,E08000015,Wirral,North West, 701 , 84 , 12.0 ,D,483,12402,4
+E01007157,Wirral 015C,E08000015,Wirral,North West, 628 , 62 , 9.9 ,D,441,14398,5
+E01007158,Wirral 015D,E08000015,Wirral,North West, 724 , 62 , 8.6 ,D,541,19994,6
+E01007159,Wirral 015E,E08000015,Wirral,North West, 820 , 38 , 4.6 ,C,721,25331,8
+E01007127,Wirral 016B,E08000015,Wirral,North West, 746 , 149 , 20.0 ,D,827,94,1
+E01007128,Wirral 016C,E08000015,Wirral,North West, 951 , 159 , 16.7 ,C,1255,107,1
+E01007129,Wirral 016D,E08000015,Wirral,North West, 749 , 138 , 18.4 ,D,1101,207,1
+E01007133,Wirral 016E,E08000015,Wirral,North West, 731 , 97 , 13.3 ,C,937,75,1
+E01034838,Wirral 016F,E08000015,Wirral,North West, 601 , 77 , 12.8 ,C,1088,220,1
+E01034839,Wirral 016G,E08000015,Wirral,North West, 765 , 113 , 14.8 ,D,999,473,1
+E01007224,Wirral 017A,E08000015,Wirral,North West, 648 , 46 , 7.1 ,D,367,24988,8
+E01007226,Wirral 017B,E08000015,Wirral,North West, 785 , 71 , 9.0 ,D,507,21834,7
+E01007265,Wirral 017C,E08000015,Wirral,North West, 549 , 45 , 8.2 ,D,341,25248,8
+E01007299,Wirral 017D,E08000015,Wirral,North West, 617 , 41 , 6.6 ,D,523,21340,7
+E01007306,Wirral 017E,E08000015,Wirral,North West, 763 , 52 , 6.8 ,D,498,25290,8
+E01007297,Wirral 018A,E08000015,Wirral,North West, 672 , 49 , 7.3 ,C,619,10220,4
+E01007298,Wirral 018B,E08000015,Wirral,North West, 648 , 40 , 6.2 ,D,401,29740,9
+E01007301,Wirral 018C,E08000015,Wirral,North West, 737 , 47 , 6.4 ,D,470,22071,7
+E01007302,Wirral 018D,E08000015,Wirral,North West, 934 , 73 , 7.8 ,B,999,16155,5
+E01007305,Wirral 018E,E08000015,Wirral,North West, 773 , 46 , 6.0 ,D,462,24865,8
+E01007119,Wirral 019A,E08000015,Wirral,North West, 754 , 76 , 10.1 ,C,606,2792,1
+E01007161,Wirral 019B,E08000015,Wirral,North West, 666 , 51 , 7.7 ,D,457,17823,6
+E01007162,Wirral 019C,E08000015,Wirral,North West, 571 , 58 , 10.2 ,C,581,1451,1
+E01007300,Wirral 019D,E08000015,Wirral,North West, 971 , 87 , 9.0 ,C,1555,4429,2
+E01007155,Wirral 020A,E08000015,Wirral,North West," 1,027 ", 138 , 13.4 ,C,1200,2063,1
+E01007160,Wirral 020B,E08000015,Wirral,North West, 854 , 99 , 11.6 ,D,744,14515,5
+E01007240,Wirral 020C,E08000015,Wirral,North West, 925 , 116 , 12.5 ,C,897,11662,4
+E01007241,Wirral 020D,E08000015,Wirral,North West, 741 , 35 , 4.7 ,C,569,26251,8
+E01007242,Wirral 020E,E08000015,Wirral,North West, 904 , 67 , 7.4 ,D,735,25352,8
+E01007130,Wirral 021A,E08000015,Wirral,North West, 750 , 150 , 20.0 ,D,997,1366,1
+E01007131,Wirral 021B,E08000015,Wirral,North West, 798 , 142 , 17.8 ,D,910,474,1
+E01007179,Wirral 021C,E08000015,Wirral,North West, 682 , 152 , 22.3 ,D,766,1615,1
+E01007291,Wirral 021D,E08000015,Wirral,North West, 892 , 171 , 19.2 ,D,1283,262,1
+E01007292,Wirral 021E,E08000015,Wirral,North West, 748 , 102 , 13.6 ,D,844,717,1
+E01007294,Wirral 021F,E08000015,Wirral,North West, 710 , 142 , 20.0 ,D,702,1908,1
+E01007180,Wirral 022A,E08000015,Wirral,North West, 715 , 92 , 12.9 ,D,624,5985,2
+E01007181,Wirral 022B,E08000015,Wirral,North West, 722 , 105 , 14.5 ,D,565,6418,2
+E01007239,Wirral 022C,E08000015,Wirral,North West, 832 , 131 , 15.7 ,D,865,3877,2
+E01007243,Wirral 022D,E08000015,Wirral,North West, 849 , 68 , 8.0 ,D,670,18976,6
+E01007244,Wirral 022E,E08000015,Wirral,North West, 975 , 160 , 16.4 ,D,969,4748,2
+E01007259,Wirral 023A,E08000015,Wirral,North West, 510 , 41 , 8.0 ,D,290,31414,10
+E01007261,Wirral 023B,E08000015,Wirral,North West, 631 , 35 , 5.5 ,D,322,31849,10
+E01007264,Wirral 023C,E08000015,Wirral,North West, 676 , 26 , 3.8 ,D,392,30893,10
+E01007266,Wirral 023D,E08000015,Wirral,North West, 642 , 40 , 6.2 ,D,396,30833,10
+E01007267,Wirral 023E,E08000015,Wirral,North West, 662 , 49 , 7.4 ,D,519,24927,8
+E01007268,Wirral 023F,E08000015,Wirral,North West, 682 , 32 , 4.7 ,D,589,24712,8
+E01007163,Wirral 024A,E08000015,Wirral,North West, 955 , 54 , 5.7 ,C,702,19180,6
+E01007245,Wirral 024B,E08000015,Wirral,North West, 663 , 45 , 6.8 ,D,382,25371,8
+E01007246,Wirral 024C,E08000015,Wirral,North West, 614 , 37 , 6.0 ,D,334,24029,8
+E01007247,Wirral 024D,E08000015,Wirral,North West, 691 , 38 , 5.5 ,C,297,24765,8
+E01007252,Wirral 024E,E08000015,Wirral,North West, 673 , 46 , 6.8 ,D,390,22456,7
+E01007249,Wirral 025A,E08000015,Wirral,North West, 613 , 63 , 10.3 ,D,872,4337,2
+E01007251,Wirral 025B,E08000015,Wirral,North West, 533 , 34 , 6.4 ,D,527,20173,6
+E01007257,Wirral 025C,E08000015,Wirral,North West, 623 , 70 , 11.2 ,D,1032,1727,1
+E01007303,Wirral 025D,E08000015,Wirral,North West, 738 , 80 , 10.8 ,D,1209,1373,1
+E01007304,Wirral 025E,E08000015,Wirral,North West, 663 , 73 , 11.0 ,D,1115,1678,1
+E01007196,Wirral 026A,E08000015,Wirral,North West, 818 , 75 , 9.2 ,C,716,24450,8
+E01007197,Wirral 026B,E08000015,Wirral,North West, 699 , 48 , 6.9 ,D,458,31613,10
+E01007198,Wirral 026C,E08000015,Wirral,North West, 838 , 103 , 12.3 ,D,884,19956,6
+E01007263,Wirral 026D,E08000015,Wirral,North West, 663 , 60 , 9.0 ,D,660,8066,3
+E01007282,Wirral 026E,E08000015,Wirral,North West, 676 , 61 , 9.0 ,D,534,22795,7
+E01007175,Wirral 027A,E08000015,Wirral,North West, 943 , 140 , 14.8 ,D,1037,2271,1
+E01007290,Wirral 027B,E08000015,Wirral,North West, 966 , 118 , 12.2 ,C,1193,444,1
+E01007293,Wirral 027C,E08000015,Wirral,North West, 788 , 120 , 15.2 ,C,971,183,1
+E01007295,Wirral 027D,E08000015,Wirral,North West, 751 , 106 , 14.1 ,D,835,3226,1
+E01007296,Wirral 027E,E08000015,Wirral,North West, 875 , 165 , 18.9 ,D,976,1849,1
+E01007258,Wirral 028A,E08000015,Wirral,North West, 662 , 45 , 6.8 ,D,379,29732,9
+E01007260,Wirral 028B,E08000015,Wirral,North West, 667 , 39 , 5.8 ,D,421,31355,10
+E01007262,Wirral 028C,E08000015,Wirral,North West, 684 , 33 , 4.8 ,D,480,32976,10
+E01007281,Wirral 028D,E08000015,Wirral,North West, 617 , 36 , 5.8 ,D,458,31971,10
+E01007283,Wirral 028E,E08000015,Wirral,North West, 502 , 20 , 4.0 ,D,320,30630,10
+E01007173,Wirral 029A,E08000015,Wirral,North West, 620 , 63 , 10.2 ,D,425,11445,4
+E01007174,Wirral 029B,E08000015,Wirral,North West, 753 , 74 , 9.8 ,D,610,12412,4
+E01007176,Wirral 029C,E08000015,Wirral,North West, 793 , 106 , 13.4 ,D,935,3682,2
+E01007177,Wirral 029D,E08000015,Wirral,North West, 699 , 71 , 10.2 ,D,561,9440,3
+E01007178,Wirral 029E,E08000015,Wirral,North West, 740 , 92 , 12.4 ,D,744,6508,2
+E01007248,Wirral 030A,E08000015,Wirral,North West, 624 , 46 , 7.4 ,D,432,22060,7
+E01007250,Wirral 030B,E08000015,Wirral,North West, 584 , 51 , 8.7 ,D,331,27450,9
+E01007253,Wirral 030C,E08000015,Wirral,North West, 771 , 69 , 8.9 ,C,807,9283,3
+E01007254,Wirral 030D,E08000015,Wirral,North West, 669 , 43 , 6.4 ,D,424,30515,10
+E01007115,Wirral 031A,E08000015,Wirral,North West, 691 , 83 , 12.0 ,D,463,14225,5
+E01007138,Wirral 031B,E08000015,Wirral,North West, 838 , 124 , 14.8 ,D,936,1497,1
+E01007139,Wirral 031C,E08000015,Wirral,North West, 739 , 106 , 14.3 ,D,652,6104,2
+E01007141,Wirral 031D,E08000015,Wirral,North West, 899 , 122 , 13.6 ,D,632,7284,3
+E01007289,Wirral 031E,E08000015,Wirral,North West, 679 , 118 , 17.4 ,C,821,110,1
+E01007111,Wirral 032A,E08000015,Wirral,North West, 612 , 57 , 9.3 ,D,332,30850,10
+E01007112,Wirral 032B,E08000015,Wirral,North West, 682 , 62 , 9.1 ,D,450,16274,5
+E01007113,Wirral 032C,E08000015,Wirral,North West, 608 , 50 , 8.2 ,D,391,24883,8
+E01007114,Wirral 032D,E08000015,Wirral,North West, 603 , 73 , 12.1 ,D,643,10103,3
+E01007116,Wirral 032E,E08000015,Wirral,North West, 686 , 62 , 9.0 ,D,573,23502,7
+E01007280,Wirral 033A,E08000015,Wirral,North West, 760 , 52 , 6.8 ,D,476,30107,9
+E01007284,Wirral 033B,E08000015,Wirral,North West, 721 , 48 , 6.7 ,D,419,30904,10
+E01007285,Wirral 033C,E08000015,Wirral,North West, 655 , 48 , 7.3 ,D,424,27672,9
+E01007287,Wirral 033D,E08000015,Wirral,North West, 896 , 79 , 8.8 ,D,679,20952,7
+E01007183,Wirral 034A,E08000015,Wirral,North West, 551 , 41 , 7.4 ,D,355,28319,9
+E01007255,Wirral 034B,E08000015,Wirral,North West, 720 , 56 , 7.8 ,D,568,23759,8
+E01007256,Wirral 034C,E08000015,Wirral,North West, 789 , 58 , 7.4 ,D,511,27086,9
+E01007279,Wirral 034D,E08000015,Wirral,North West, 690 , 56 , 8.1 ,D,481,27390,9
+E01007286,Wirral 034E,E08000015,Wirral,North West, 662 , 53 , 8.0 ,D,431,21634,7
+E01007110,Wirral 035A,E08000015,Wirral,North West, 765 , 60 , 7.8 ,D,522,27043,9
+E01007117,Wirral 035B,E08000015,Wirral,North West, 658 , 64 , 9.7 ,D,402,27895,9
+E01007118,Wirral 035C,E08000015,Wirral,North West, 658 , 72 , 10.9 ,D,628,9291,3
+E01007151,Wirral 035D,E08000015,Wirral,North West, 676 , 58 , 8.6 ,D,358,30650,10
+E01007154,Wirral 035E,E08000015,Wirral,North West, 642 , 54 , 8.4 ,D,374,27446,9
+E01007142,Wirral 036B,E08000015,Wirral,North West, 897 , 66 , 7.4 ,D,552,23832,8
+E01007143,Wirral 036C,E08000015,Wirral,North West, 837 , 82 , 9.8 ,D,679,14386,5
+E01007152,Wirral 036D,E08000015,Wirral,North West, 813 , 82 , 10.1 ,D,767,15277,5
+E01007153,Wirral 036E,E08000015,Wirral,North West, 653 , 68 , 10.4 ,D,561,9647,3
+E01034840,Wirral 036F,E08000015,Wirral,North West, 679 , 83 , 12.2 ,D,537,12817,4
+E01034841,Wirral 036G,E08000015,Wirral,North West, 584 , 32 , 5.5 ,B,633,28182,9
+E01007182,Wirral 037A,E08000015,Wirral,North West, 745 , 52 , 7.0 ,C,654,28800,9
+E01007184,Wirral 037B,E08000015,Wirral,North West, 698 , 59 , 8.5 ,D,493,27592,9
+E01007185,Wirral 037C,E08000015,Wirral,North West, 750 , 79 , 10.5 ,D,609,24055,8
+E01007192,Wirral 037D,E08000015,Wirral,North West, 681 , 47 , 6.9 ,C,626,19396,6
+E01007288,Wirral 037E,E08000015,Wirral,North West, 798 , 67 , 8.4 ,D,673,16596,5
+E01007144,Wirral 038A,E08000015,Wirral,North West, 571 , 85 , 14.9 ,D,457,19714,6
+E01007145,Wirral 038B,E08000015,Wirral,North West, 556 , 24 , 4.3 ,D,257,32498,10
+E01007146,Wirral 038C,E08000015,Wirral,North West, 706 , 43 , 6.1 ,D,445,32982,10
+E01007147,Wirral 038D,E08000015,Wirral,North West, 643 , 38 , 5.9 ,D,370,32263,10
+E01007148,Wirral 038E,E08000015,Wirral,North West, 683 , 36 , 5.3 ,D,339,31494,10
+E01007135,Wirral 039A,E08000015,Wirral,North West, 695 , 57 , 8.2 ,D,430,25057,8
+E01007136,Wirral 039B,E08000015,Wirral,North West, 731 , 92 , 12.6 ,D,950,5884,2
+E01007137,Wirral 039C,E08000015,Wirral,North West, 822 , 81 , 9.9 ,D,739,11164,4
+E01007170,Wirral 039D,E08000015,Wirral,North West, 748 , 62 , 8.3 ,B,664,24254,8
+E01007186,Wirral 040A,E08000015,Wirral,North West, 674 , 34 , 5.0 ,D,389,32649,10
+E01007187,Wirral 040B,E08000015,Wirral,North West, 680 , 36 , 5.3 ,D,448,32683,10
+E01007188,Wirral 040C,E08000015,Wirral,North West, 658 , 44 , 6.7 ,D,375,33244,10
+E01007189,Wirral 040D,E08000015,Wirral,North West, 736 , 30 , 4.1 ,D,506,32568,10
+E01007190,Wirral 040E,E08000015,Wirral,North West, 674 , 31 , 4.6 ,D,451,32979,10
+E01007191,Wirral 040F,E08000015,Wirral,North West, 566 , 24 , 4.2 ,D,346,32178,10
+E01007149,Wirral 041A,E08000015,Wirral,North West, 651 , 44 , 6.8 ,D,325,32098,10
+E01007150,Wirral 041B,E08000015,Wirral,North West, 600 , 39 , 6.5 ,D,302,31304,10
+E01007165,Wirral 041C,E08000015,Wirral,North West, 570 , 42 , 7.4 ,D,325,28840,9
+E01007171,Wirral 041D,E08000015,Wirral,North West, 643 , 52 , 8.1 ,D,373,30435,10
+E01007172,Wirral 041E,E08000015,Wirral,North West, 671 , 32 , 4.8 ,C,395,29812,9
+E01007164,Wirral 042A,E08000015,Wirral,North West, 793 , 74 , 9.3 ,D,668,24347,8
+E01007166,Wirral 042B,E08000015,Wirral,North West, 654 , 41 , 6.3 ,D,384,28090,9
+E01007167,Wirral 042C,E08000015,Wirral,North West, 664 , 62 , 9.3 ,D,612,12066,4
+E01007168,Wirral 042D,E08000015,Wirral,North West, 769 , 69 , 9.0 ,C,721,5678,2
+E01007169,Wirral 042E,E08000015,Wirral,North West, 781 , 67 , 8.6 ,D,619,11971,4
